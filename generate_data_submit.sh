@@ -2,9 +2,9 @@
 #SBATCH --partition=dggpu
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --gres=gpu:1
+#SBATCH --gres=gpu:2
 #SBATCH --mem=1G
-#SBATCH --time=1:00:00
+#SBATCH --time=4:00:00
 #SBATCH --job-name=Random
 # %x=job-name %j=jobid
 #SBATCH --output=%x_%j.out
@@ -22,4 +22,4 @@ echo "  jobid:           ${SLURM_JOBID}"
 echo "  GPU(s):          ${CUDA_VISIBLE_DEVICES}"
 
 source activate deeplearning
-python generate_data.py
+python generate_data.py 5000
