@@ -9,7 +9,7 @@ if len(sys.argv)==2:
 version = time.strftime("%Y%m%d-%H%M%S")
 os.mkdir(f"farm/{version}")
 shutil.copy("assets/base.vxa", f"farm/{version}/base.vxa")
-e = CPPNEvolution([6,6,6], 2, [0,0])
+e = CPPNEvolution([6,6,6], population_size, [0,0])
 e.init_geno(hidden_layers=[10,10,10])
 e.express()
 population = e.dump_dic()["population"]
