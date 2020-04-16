@@ -3,9 +3,8 @@ from voxelyze.evolution.cppn_alife.CPPNEvolution import CPPNEvolution
 import os, time, shutil, sys
 
 population_size = 2
-
 if len(sys.argv)==2:
-    population_size = sys.argv[1]
+    population_size = int(sys.argv[1])
 
 version = time.strftime("%Y%m%d-%H%M%S")
 os.mkdir(f"farm/{version}")
