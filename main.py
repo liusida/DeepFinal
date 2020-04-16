@@ -3,13 +3,18 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 import matplotlib.pyplot as plt
-import time
+import time, sys
 
 # my packages
 import preprocess
 import datasets
 import visualize
 import networks
+
+if len(sys.argv)<2:
+    print(f"Usage:\n python main.py [0-2]\n\n0: Fully Connected\n1: Convolutional 2D\n2: Convolutional 3D\n")
+    exit(0)
+net_id = int(sys.argv[1])
 
 torch.manual_seed(1)
 GPU = True
@@ -40,13 +45,16 @@ nets = [
     networks.CONV2D(),
     networks.CONV3D(),
 ]
+base_num = 10000
 epochs = {
-    nets[0]:10 * 30,
-    nets[1]:10 * 3,
-    nets[2]:10,
+    nets[0]:base_num * 30,
+    nets[1]:base_num * 3,
+    nets[2]:base_num,
 }
 
-for net in nets:
+# for net in nets:
+if True:
+    net = nets[net_id]
     start_time = time.time()
     print(f"Training {net.__class__}...")
     if GPU:
