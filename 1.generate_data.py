@@ -1,3 +1,5 @@
+# Step 1. Generate data and simulated to get labels.
+
 import voxelyze as vx
 from voxelyze.evolution.cppn_alife.CPPNEvolution import CPPNEvolution
 import os, time, shutil, sys

@@ -1,3 +1,5 @@
+# Helper file dealing with data preprocessing
+
 import glob, os, shutil, hashlib
 import numpy as np
 from lxml import etree
@@ -73,10 +75,17 @@ def load_data_torch(dataset, dtype=torch.FloatTensor):
         else:
             X = torch.cat((X,x),0)
             Y = torch.cat((Y,y),0)
-    print('before',X.size())
     X = X.view(-1,6,6,6,5)
-    print('after',X.size())
     return X,Y
+
+def load_cleaned_test_data_torch(dtype=torch.FloatTensor):
+    """ cleaned test data means excluded the data that is too similar to the training data (at least1000 voxels out of 1080 are the same) """
+    """ cleaned test data was created from 20200415-234238, and saved in data/cleaned_test_data/ """
+    x = np.load("data/cleaned_test_data/test_X.npy")
+    y = np.load("data/cleaned_test_data/test_Y.npy")
+    x = torch.from_numpy(x).float().type(dtype)
+    y = torch.from_numpy(y).float().type(dtype)
+    return x,y
 
 if __name__ == "__main__":
     # test

@@ -1,3 +1,5 @@
+# Define 3 types of DNN and count parameters
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

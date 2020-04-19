@@ -6,3 +6,4 @@ tmp_*
 workspace
 images
 __pycache__
+images_*

@@ -1,3 +1,6 @@
+# Training data is defined here
+# Testing data was, but after cleaning, it will be stored in data/cleaned_test_data/
+
 training_data = [
     ["data/BBTwo1001/generation_0000/report/output.xml",
      "data/BBTwo1001/generation_0000/start_population"],
