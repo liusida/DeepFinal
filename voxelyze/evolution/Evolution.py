@@ -111,6 +111,58 @@ class Evolution:
         assert self.target_population_size == len(next_generation["genotype"])
         self.express()
 
+    def next_generation_with_prediction(self, sorted_result, net, body_one_hot):
+        """ step to next generation based on the sorted result
+        sorted_result is a dictionary with keys id and fitness sorted by fitness desc"""
+        """ example population size: 24 """
+        # assert self.target_population_size == 24
+        if self.best_so_far["geno"] is not None:
+            geno_from_best_so_far = [self.best_so_far["geno"], self.best_so_far["geno"]]
+            num_genos = int(self.target_population_size*2/3) -1
+        else:
+            geno_from_best_so_far = []
+            num_genos = int(self.target_population_size*2/3)
+        """ select 16, remove 8 """
+        selected_geno = []
+        for i in range(num_genos):
+            geno = self.population["genotype"][sorted_result["id"][i]]
+            selected_geno.append(geno)
+
+        """ mutate 16 * 2 = 32"""
+        mutated_geno = self.mutate(geno_from_best_so_far)
+        mutated_geno += self.mutate(selected_geno)
+        mutated_geno += self.mutate(selected_geno)
+
+        # save best geno so far for breeding
+        if sorted_result["fitness"][0] >= self.best_so_far["fitness"]:
+            self.best_so_far["fitness"] = sorted_result["fitness"][0]
+            self.best_so_far["geno"] = self.population["genotype"][sorted_result["id"][0]]
+        
+        # combine two mutant groups into next generation
+        next_generation = {}
+        next_generation["genotype"] = mutated_geno
+        self.population = next_generation
+        self.express()
+
+        """ pick 24 from 32 """
+        import torch
+        current_population_size = int(self.target_population_size*2/3) * 2
+        current_X = []
+        for i in range(current_population_size):
+            current_X.append( self.population['phenotype'][i]['body'] )
+        current_X = np.array(current_X)
+        current_X_t = body_one_hot(current_X)
+        Y_hat = net(current_X_t)
+        sorted_id = torch.argsort(Y_hat, dim=0, descending=True).cpu().numpy().reshape(-1)
+        print(f"Predicted sort: {sorted_id}")
+
+        next_generation = {}
+        next_generation["genotype"] = []
+        for i in range(self.target_population_size):
+            next_generation["genotype"].append( self.population['genotype'][sorted_id[i]])
+        self.population = next_generation
+        self.express()
+
     def mutate(self, geno):
         """ Mutate a group of geno """
         mutants = []

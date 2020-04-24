@@ -8,7 +8,8 @@ import random
 import numpy as np
 from voxelyze.helper import cprint
 
-seed = 1000
+DNN = False
+seed = 1001
 random.seed(seed)
 np.random.seed(seed)
 
@@ -41,12 +42,16 @@ def mutation_rate(generation=0):
 
 def target_population_size(generation=0):
     if generation<10:
-        return 50
+        return 240
         # return 500
     else:
-        return 50
+        return 240
         # return 40
 
 # =================== cannot change during evolution: =======================
-experiment_name = f"Surrogate_wo_DNN_{seed}"
+if DNN:
+    wo = ''
+else:
+    wo = 'wo_'
+experiment_name = f"Surrogate_{wo}DNN_{seed}"
 hidden_layers = [10,10,10]

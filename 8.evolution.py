@@ -16,6 +16,7 @@
 # write the next generation of population with high fitnesses and mutants
 
 from exp_settings import *
+assert target_population_size()%3==0
 
 """ == Settings for Deep Learning == """
 import torch
@@ -44,7 +45,7 @@ else:
 net = networks.FC4()
 if GPU:
     net.cuda()
-training_epochs_per_generation = 10
+training_epochs_per_generation = 100
 criterion = nn.MSELoss()
 optimizer = optim.SGD(net.parameters(), lr=0.01)
 batch_size = 512
@@ -74,10 +75,12 @@ import voxelyze as vx
 from voxelyze.evolution.cppn_alife.CPPNEvolution import CPPNEvolution
 import numpy as np
 import shutil, random, os
-DNN = True
 generation = 0
 
-
+try:
+    shutil.rmtree(f"data/experiment_{experiment_name}")
+except:
+    pass
 vx.clear_workspace()
 
 # try to resume from last experiment
@@ -142,7 +145,7 @@ while(True):
 
         # train
         total_number = train_X.size()[0]
-        if total_number>10:
+        if generation > 40:
             for epoch in range(training_epochs_per_generation):
                 for i in range(math.ceil(total_number/batch_size)):
                     batch_start = i*batch_size
@@ -190,4 +193,7 @@ while(True):
     # os.system("python plot_reports.py > /dev/null")
     # next generation
     generation += 1
-    next_generation = evolution.next_generation(sorted_result)
+    if DNN:
+        next_generation = evolution.next_generation_with_prediction(sorted_result, net, body_one_hot)
+    else:
+        next_generation = evolution.next_generation(sorted_result)
