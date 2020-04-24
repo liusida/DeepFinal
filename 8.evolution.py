@@ -22,7 +22,7 @@ import sys
 
 if len(sys.argv)==3:
     print(f"in_DNN={sys.argv[1]}, in_seed={sys.argv[2]}", flush=True)
-    DNN = bool(sys.argv[1])
+    DNN = bool(int(sys.argv[1]))
     seed = int(sys.argv[2])
     random.seed(seed)
     np.random.seed(seed)
