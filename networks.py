@@ -55,8 +55,8 @@ class CONV2D(Net):
 class CONV3D(Net):
     def __init__(self):
         super(Net,self).__init__()
-        self.conv1 = nn.Conv3d(in_channels=5, out_channels=6, kernel_size=3, padding=1) # same padding
-        self.conv2 = nn.Conv3d(6, 5, 3, padding=1) # same padding
+        self.conv1 = nn.Conv3d(in_channels=5, out_channels=30, kernel_size=3, padding=1) # same padding
+        self.conv2 = nn.Conv3d(30, 5, 3, padding=1) # same padding
         self.fc1 = nn.Linear(6*6*6*5, 1)
     def forward(self, x):
         super().forward(x)

@@ -7,3 +7,10 @@ workspace
 images
 __pycache__
 images_*
+*.history
+*.model
+*.npy
+*.svg
+*.vxd
+*.mp4
+*.osp
