@@ -1,0 +1,152 @@
+1 GPU found.
+=== set device to 0 for 24 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0011.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0021.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0018.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000839; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000839; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+1 GPU found.
+=== set device to 0 for 24 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0011.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0021.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0018.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000839; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000839; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 

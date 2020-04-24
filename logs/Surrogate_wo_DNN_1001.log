@@ -722,3 +722,3024 @@ real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 .
 real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
 real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
 real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 224 ends: robot_0077.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 225 ends: robot_0165.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 226 ends: robot_0155.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 227 ends: robot_0039.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 228 ends: robot_0032.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 229 ends: robot_0014.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 230 ends: robot_0121.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 231 ends: robot_0203.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 232 ends: robot_0228.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 233 ends: robot_0185.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 234 ends: robot_0220.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 235 ends: robot_0000.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 236 ends: robot_0057.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 237 ends: robot_0002.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 238 ends: robot_0201.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 239 ends: robot_0020.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 160 ends: robot_0006.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 161 ends: robot_0076.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 162 ends: robot_0181.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 163 ends: robot_0087.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 164 ends: robot_0063.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 165 ends: robot_0030.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 166 ends: robot_0001.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 167 ends: robot_0043.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 168 ends: robot_0129.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 169 ends: robot_0238.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 170 ends: robot_0103.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 171 ends: robot_0075.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 172 ends: robot_0126.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 173 ends: robot_0221.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 174 ends: robot_0174.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 175 ends: robot_0118.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 176 ends: robot_0157.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 177 ends: robot_0207.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 178 ends: robot_0214.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 179 ends: robot_0192.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 180 ends: robot_0101.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 181 ends: robot_0029.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 182 ends: robot_0156.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 183 ends: robot_0073.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 184 ends: robot_0166.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 185 ends: robot_0114.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 186 ends: robot_0004.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 187 ends: robot_0233.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 188 ends: robot_0062.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 189 ends: robot_0088.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 190 ends: robot_0187.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 191 ends: robot_0037.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 192 ends: robot_0193.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 193 ends: robot_0107.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 194 ends: robot_0223.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 195 ends: robot_0105.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 196 ends: robot_0159.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 197 ends: robot_0054.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 198 ends: robot_0120.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 199 ends: robot_0125.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 200 ends: robot_0035.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 201 ends: robot_0065.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 202 ends: robot_0045.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 203 ends: robot_0189.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 204 ends: robot_0151.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 205 ends: robot_0215.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 206 ends: robot_0026.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 207 ends: robot_0176.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 208 ends: robot_0146.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 209 ends: robot_0209.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 210 ends: robot_0074.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 211 ends: robot_0225.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 212 ends: robot_0108.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 213 ends: robot_0044.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 214 ends: robot_0128.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 215 ends: robot_0046.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 217 ends: robot_0137.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 218 ends: robot_0096.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 219 ends: robot_0213.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 220 ends: robot_0034.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 221 ends: robot_0152.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 222 ends: robot_0033.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 223 ends: robot_0018.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 0 ends: robot_0051.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0047.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0007.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 3 ends: robot_0153.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 4 ends: robot_0145.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 5 ends: robot_0112.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 6 ends: robot_0019.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 7 ends: robot_0199.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 8 ends: robot_0042.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 9 ends: robot_0117.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 10 ends: robot_0036.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 11 ends: robot_0234.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 12 ends: robot_0099.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 13 ends: robot_0170.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 14 ends: robot_0022.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 15 ends: robot_0058.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 16 ends: robot_0188.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 17 ends: robot_0164.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 18 ends: robot_0012.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 19 ends: robot_0197.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 20 ends: robot_0091.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 21 ends: robot_0231.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 22 ends: robot_0079.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 23 ends: robot_0061.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 24 ends: robot_0041.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 25 ends: robot_0098.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 26 ends: robot_0194.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 27 ends: robot_0204.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 28 ends: robot_0133.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 29 ends: robot_0094.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 30 ends: robot_0072.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 31 ends: robot_0104.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 32 ends: robot_0219.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 33 ends: robot_0124.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 34 ends: robot_0196.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 35 ends: robot_0106.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 36 ends: robot_0086.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 37 ends: robot_0158.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 38 ends: robot_0093.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 39 ends: robot_0009.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 40 ends: robot_0066.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 41 ends: robot_0150.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 42 ends: robot_0102.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 43 ends: robot_0227.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 44 ends: robot_0177.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 45 ends: robot_0229.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 46 ends: robot_0175.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 47 ends: robot_0038.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 48 ends: robot_0140.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 49 ends: robot_0111.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 50 ends: robot_0119.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 51 ends: robot_0027.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 52 ends: robot_0055.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 53 ends: robot_0212.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 54 ends: robot_0113.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 55 ends: robot_0011.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 56 ends: robot_0060.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 57 ends: robot_0110.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 58 ends: robot_0200.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 59 ends: robot_0134.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 60 ends: robot_0015.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 61 ends: robot_0222.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 62 ends: robot_0142.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 63 ends: robot_0132.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 96 ends: robot_0084.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 97 ends: robot_0144.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 98 ends: robot_0180.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 99 ends: robot_0178.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 100 ends: robot_0160.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 101 ends: robot_0048.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 102 ends: robot_0028.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 103 ends: robot_0003.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 104 ends: robot_0202.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 105 ends: robot_0092.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 106 ends: robot_0138.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 107 ends: robot_0082.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 108 ends: robot_0070.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 110 ends: robot_0081.vxd Time: 1.000293, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 111 ends: robot_0195.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 112 ends: robot_0017.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 113 ends: robot_0163.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 114 ends: robot_0191.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 115 ends: robot_0068.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 116 ends: robot_0182.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 117 ends: robot_0089.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 118 ends: robot_0131.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 119 ends: robot_0232.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 120 ends: robot_0024.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 121 ends: robot_0127.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 122 ends: robot_0190.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 123 ends: robot_0123.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 124 ends: robot_0205.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 125 ends: robot_0013.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 126 ends: robot_0179.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 127 ends: robot_0239.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 128 ends: robot_0154.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 129 ends: robot_0183.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 130 ends: robot_0115.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 131 ends: robot_0135.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 132 ends: robot_0116.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 133 ends: robot_0168.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 134 ends: robot_0235.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 135 ends: robot_0078.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 136 ends: robot_0010.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 137 ends: robot_0143.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 138 ends: robot_0049.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 139 ends: robot_0216.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 140 ends: robot_0090.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 141 ends: robot_0167.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 142 ends: robot_0130.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 143 ends: robot_0031.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 144 ends: robot_0211.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 145 ends: robot_0050.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 146 ends: robot_0198.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 147 ends: robot_0147.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 148 ends: robot_0097.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 149 ends: robot_0052.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 150 ends: robot_0040.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 151 ends: robot_0139.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 152 ends: robot_0053.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 153 ends: robot_0237.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 154 ends: robot_0206.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 155 ends: robot_0095.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 156 ends: robot_0083.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 157 ends: robot_0162.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 158 ends: robot_0109.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 159 ends: robot_0148.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 64 ends: robot_0171.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 65 ends: robot_0100.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 66 ends: robot_0016.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 67 ends: robot_0184.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 68 ends: robot_0161.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 69 ends: robot_0173.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 70 ends: robot_0122.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 71 ends: robot_0226.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 72 ends: robot_0071.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 73 ends: robot_0169.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 74 ends: robot_0005.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 75 ends: robot_0208.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 76 ends: robot_0067.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 77 ends: robot_0025.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 78 ends: robot_0141.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 79 ends: robot_0224.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 80 ends: robot_0230.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 81 ends: robot_0056.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 82 ends: robot_0023.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 83 ends: robot_0069.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 84 ends: robot_0186.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 85 ends: robot_0218.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 86 ends: robot_0059.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 87 ends: robot_0085.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 90 ends: robot_0064.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 91 ends: robot_0008.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 92 ends: robot_0210.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 93 ends: robot_0136.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 94 ends: robot_0217.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 95 ends: robot_0021.vxd Time: 1.000067, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424150804.vxt -o workspace/locally/20200424150804.vxr
+1 GPU found.
+=== set device to 0 for 240 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[1;31m
+No links and no voxels. Simulation 232 (robot_0228.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 41 (robot_0150.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 43 (robot_0227.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 45 (robot_0229.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 72 (robot_0071.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 80 (robot_0230.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 83 (robot_0069.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 108 (robot_0070.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 115 (robot_0068.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 204 (robot_0151.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 216 (robot_0149.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 159 (robot_0148.vxd) abort.
+[0m[0;32m0) Simulation 224 runs: robot_0077.vxd.
+[0m[0;32m0) Simulation 225 runs: robot_0165.vxd.
+[0m[0;32m0) Simulation 226 runs: robot_0155.vxd.
+[0m[0;32m0) Simulation 227 runs: robot_0039.vxd.
+[0m[0;32m0) Simulation 228 runs: robot_0032.vxd.
+[0m[0;32m0) Simulation 229 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 230 runs: robot_0121.vxd.
+[0m[0;32m0) Simulation 231 runs: robot_0203.vxd.
+[0m[0;32m0) Simulation 233 runs: robot_0185.vxd.
+[0m[0;32m0) Simulation 234 runs: robot_0220.vxd.
+[0m[0;32m0) Simulation 235 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 236 runs: robot_0057.vxd.
+[0m[0;32m0) Simulation 237 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 238 runs: robot_0201.vxd.
+[0m[0;32m0) Simulation 239 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 32 runs: robot_0219.vxd.
+[0m[0;32m0) Simulation 33 runs: robot_0124.vxd.
+[0m[0;32m0) Simulation 34 runs: robot_0196.vxd.
+[0m[0;32m0) Simulation 35 runs: robot_0106.vxd.
+[0m[0;32m0) Simulation 36 runs: robot_0086.vxd.
+[0m[0;32m0) Simulation 37 runs: robot_0158.vxd.
+[0m[0;32m0) Simulation 38 runs: robot_0093.vxd.
+[0m[0;32m0) Simulation 39 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 40 runs: robot_0066.vxd.
+[0m[0;32m0) Simulation 42 runs: robot_0102.vxd.
+[0m[0;32m0) Simulation 44 runs: robot_0177.vxd.
+[0m[0;32m0) Simulation 46 runs: robot_0175.vxd.
+[0m[0;32m0) Simulation 47 runs: robot_0038.vxd.
+[0m[0;32m0) Simulation 48 runs: robot_0140.vxd.
+[0m[0;32m0) Simulation 49 runs: robot_0111.vxd.
+[0m[0;32m0) Simulation 50 runs: robot_0119.vxd.
+[0m[0;32m0) Simulation 51 runs: robot_0027.vxd.
+[0m[0;32m0) Simulation 52 runs: robot_0055.vxd.
+[0m[0;32m0) Simulation 53 runs: robot_0212.vxd.
+[0m[0;32m0) Simulation 54 runs: robot_0113.vxd.
+[0m[0;32m0) Simulation 55 runs: robot_0011.vxd.
+[0m[0;32m0) Simulation 56 runs: robot_0060.vxd.
+[0m[0;32m0) Simulation 57 runs: robot_0110.vxd.
+[0m[0;32m0) Simulation 58 runs: robot_0200.vxd.
+[0m[0;32m0) Simulation 59 runs: robot_0134.vxd.
+[0m[0;32m0) Simulation 60 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 61 runs: robot_0222.vxd.
+[0m[0;32m0) Simulation 62 runs: robot_0142.vxd.
+[0m[0;32m0) Simulation 63 runs: robot_0132.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 0 runs: robot_0051.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0047.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0153.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0145.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0112.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0199.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0042.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0117.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0036.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0234.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0099.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0170.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0058.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0188.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0164.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0197.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0091.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0231.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0079.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0061.vxd.
+[0m[0;32m0) Simulation 24 runs: robot_0041.vxd.
+[0m[0;32m0) Simulation 25 runs: robot_0098.vxd.
+[0m[0;32m0) Simulation 26 runs: robot_0194.vxd.
+[0m[0;32m0) Simulation 27 runs: robot_0204.vxd.
+[0m[0;32m0) Simulation 28 runs: robot_0133.vxd.
+[0m[0;32m0) Simulation 29 runs: robot_0094.vxd.
+[0m[0;32m0) Simulation 30 runs: robot_0072.vxd.
+[0m[0;32m0) Simulation 31 runs: robot_0104.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 64 runs: robot_0171.vxd.
+[0m[0;32m0) Simulation 65 runs: robot_0100.vxd.
+[0m[0;32m0) Simulation 66 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 67 runs: robot_0184.vxd.
+[0m[0;32m0) Simulation 68 runs: robot_0161.vxd.
+[0m[0;32m0) Simulation 69 runs: robot_0173.vxd.
+[0m[0;32m0) Simulation 70 runs: robot_0122.vxd.
+[0m[0;32m0) Simulation 71 runs: robot_0226.vxd.
+[0m[0;32m0) Simulation 73 runs: robot_0169.vxd.
+[0m[0;32m0) Simulation 74 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 75 runs: robot_0208.vxd.
+[0m[0;32m0) Simulation 76 runs: robot_0067.vxd.
+[0m[0;32m0) Simulation 77 runs: robot_0025.vxd.
+[0m[0;32m0) Simulation 78 runs: robot_0141.vxd.
+[0m[0;32m0) Simulation 79 runs: robot_0224.vxd.
+[0m[0;32m0) Simulation 81 runs: robot_0056.vxd.
+[0m[0;32m0) Simulation 82 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 84 runs: robot_0186.vxd.
+[0m[0;32m0) Simulation 85 runs: robot_0218.vxd.
+[0m[0;32m0) Simulation 86 runs: robot_0059.vxd.
+[0m[0;32m0) Simulation 87 runs: robot_0085.vxd.
+[0m[0;32m0) Simulation 88 runs: robot_0172.vxd.
+[0m[0;32m0) Simulation 89 runs: robot_0236.vxd.
+[0m[0;32m0) Simulation 90 runs: robot_0064.vxd.
+[0m[0;32m0) Simulation 91 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 92 runs: robot_0210.vxd.
+[0m[0;32m0) Simulation 93 runs: robot_0136.vxd.
+[0m[0;32m0) Simulation 94 runs: robot_0217.vxd.
+[0m[0;32m0) Simulation 95 runs: robot_0021.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 160 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 161 runs: robot_0076.vxd.
+[0m[0;32m0) Simulation 162 runs: robot_0181.vxd.
+[0m[0;32m0) Simulation 163 runs: robot_0087.vxd.
+[0m[0;32m0) Simulation 164 runs: robot_0063.vxd.
+[0m[0;32m0) Simulation 165 runs: robot_0030.vxd.
+[0m[0;32m0) Simulation 166 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 167 runs: robot_0043.vxd.
+[0m[0;32m0) Simulation 168 runs: robot_0129.vxd.
+[0m[0;32m0) Simulation 169 runs: robot_0238.vxd.
+[0m[0;32m0) Simulation 170 runs: robot_0103.vxd.
+[0m[0;32m0) Simulation 171 runs: robot_0075.vxd.
+[0m[0;32m0) Simulation 172 runs: robot_0126.vxd.
+[0m[0;32m0) Simulation 173 runs: robot_0221.vxd.
+[0m[0;32m0) Simulation 174 runs: robot_0174.vxd.
+[0m[0;32m0) Simulation 175 runs: robot_0118.vxd.
+[0m[0;32m0) Simulation 176 runs: robot_0157.vxd.
+[0m[0;32m0) Simulation 177 runs: robot_0207.vxd.
+[0m[0;32m0) Simulation 178 runs: robot_0214.vxd.
+[0m[0;32m0) Simulation 179 runs: robot_0192.vxd.
+[0m[0;32m0) Simulation 180 runs: robot_0101.vxd.
+[0m[0;32m0) Simulation 181 runs: robot_0029.vxd.
+[0m[0;32m0) Simulation 182 runs: robot_0156.vxd.
+[0m[0;32m0) Simulation 183 runs: robot_0073.vxd.
+[0m[0;32m0) Simulation 184 runs: robot_0166.vxd.
+[0m[0;32m0) Simulation 185 runs: robot_0114.vxd.
+[0m[0;32m0) Simulation 186 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 187 runs: robot_0233.vxd.
+[0m[0;32m0) Simulation 188 runs: robot_0062.vxd.
+[0m[0;32m0) Simulation 189 runs: robot_0088.vxd.
+[0m[0;32m0) Simulation 190 runs: robot_0187.vxd.
+[0m[0;32m0) Simulation 191 runs: robot_0037.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 192 runs: robot_0193.vxd.
+[0m[0;32m0) Simulation 193 runs: robot_0107.vxd.
+[0m[0;32m0) Simulation 194 runs: robot_0223.vxd.
+[0m[0;32m0) Simulation 195 runs: robot_0105.vxd.
+[0m[0;32m0) Simulation 196 runs: robot_0159.vxd.
+[0m[0;32m0) Simulation 197 runs: robot_0054.vxd.
+[0m[0;32m0) Simulation 198 runs: robot_0120.vxd.
+[0m[0;32m0) Simulation 199 runs: robot_0125.vxd.
+[0m[0;32m0) Simulation 200 runs: robot_0035.vxd.
+[0m[0;32m0) Simulation 201 runs: robot_0065.vxd.
+[0m[0;32m0) Simulation 202 runs: robot_0045.vxd.
+[0m[0;32m0) Simulation 203 runs: robot_0189.vxd.
+[0m[0;32m0) Simulation 205 runs: robot_0215.vxd.
+[0m[0;32m0) Simulation 206 runs: robot_0026.vxd.
+[0m[0;32m0) Simulation 207 runs: robot_0176.vxd.
+[0m[0;32m0) Simulation 208 runs: robot_0146.vxd.
+[0m[0;32m0) Simulation 209 runs: robot_0209.vxd.
+[0m[0;32m0) Simulation 210 runs: robot_0074.vxd.
+[0m[0;32m0) Simulation 211 runs: robot_0225.vxd.
+[0m[0;32m0) Simulation 212 runs: robot_0108.vxd.
+[0m[0;32m0) Simulation 213 runs: robot_0044.vxd.
+[0m[0;32m0) Simulation 214 runs: robot_0128.vxd.
+[0m[0;32m0) Simulation 215 runs: robot_0046.vxd.
+[0m[0;32m0) Simulation 217 runs: robot_0137.vxd.
+[0m[0;32m0) Simulation 218 runs: robot_0096.vxd.
+[0m[0;32m0) Simulation 219 runs: robot_0213.vxd.
+[0m[0;32m0) Simulation 220 runs: robot_0034.vxd.
+[0m[0;32m0) Simulation 221 runs: robot_0152.vxd.
+[0m[0;32m0) Simulation 222 runs: robot_0033.vxd.
+[0m[0;32m0) Simulation 223 runs: robot_0018.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 128 runs: robot_0154.vxd.
+[0m[0;32m0) Simulation 129 runs: robot_0183.vxd.
+[0m[0;32m0) Simulation 130 runs: robot_0115.vxd.
+[0m[0;32m0) Simulation 131 runs: robot_0135.vxd.
+[0m[0;32m0) Simulation 132 runs: robot_0116.vxd.
+[0m[0;32m0) Simulation 133 runs: robot_0168.vxd.
+[0m[0;32m0) Simulation 134 runs: robot_0235.vxd.
+[0m[0;32m0) Simulation 135 runs: robot_0078.vxd.
+[0m[0;32m0) Simulation 136 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 137 runs: robot_0143.vxd.
+[0m[0;32m0) Simulation 138 runs: robot_0049.vxd.
+[0m[0;32m0) Simulation 139 runs: robot_0216.vxd.
+[0m[0;32m0) Simulation 140 runs: robot_0090.vxd.
+[0m[0;32m0) Simulation 141 runs: robot_0167.vxd.
+[0m[0;32m0) Simulation 142 runs: robot_0130.vxd.
+[0m[0;32m0) Simulation 143 runs: robot_0031.vxd.
+[0m[0;32m0) Simulation 144 runs: robot_0211.vxd.
+[0m[0;32m0) Simulation 145 runs: robot_0050.vxd.
+[0m[0;32m0) Simulation 146 runs: robot_0198.vxd.
+[0m[0;32m0) Simulation 147 runs: robot_0147.vxd.
+[0m[0;32m0) Simulation 148 runs: robot_0097.vxd.
+[0m[0;32m0) Simulation 149 runs: robot_0052.vxd.
+[0m[0;32m0) Simulation 150 runs: robot_0040.vxd.
+[0m[0;32m0) Simulation 151 runs: robot_0139.vxd.
+[0m[0;32m0) Simulation 152 runs: robot_0053.vxd.
+[0m[0;32m0) Simulation 153 runs: robot_0237.vxd.
+[0m[0;32m0) Simulation 154 runs: robot_0206.vxd.
+[0m[0;32m0) Simulation 155 runs: robot_0095.vxd.
+[0m[0;32m0) Simulation 156 runs: robot_0083.vxd.
+[0m[0;32m0) Simulation 157 runs: robot_0162.vxd.
+[0m[0;32m0) Simulation 158 runs: robot_0109.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 96 runs: robot_0084.vxd.
+[0m[0;32m0) Simulation 97 runs: robot_0144.vxd.
+[0m[0;32m0) Simulation 98 runs: robot_0180.vxd.
+[0m[0;32m0) Simulation 99 runs: robot_0178.vxd.
+[0m[0;32m0) Simulation 100 runs: robot_0160.vxd.
+[0m[0;32m0) Simulation 101 runs: robot_0048.vxd.
+[0m[0;32m0) Simulation 102 runs: robot_0028.vxd.
+[0m[0;32m0) Simulation 103 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 104 runs: robot_0202.vxd.
+[0m[0;32m0) Simulation 105 runs: robot_0092.vxd.
+[0m[0;32m0) Simulation 106 runs: robot_0138.vxd.
+[0m[0;32m0) Simulation 107 runs: robot_0082.vxd.
+[0m[0;32m0) Simulation 109 runs: robot_0080.vxd.
+[0m[0;32m0) Simulation 110 runs: robot_0081.vxd.
+[0m[0;32m0) Simulation 111 runs: robot_0195.vxd.
+[0m[0;32m0) Simulation 112 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 113 runs: robot_0163.vxd.
+[0m[0;32m0) Simulation 114 runs: robot_0191.vxd.
+[0m[0;32m0) Simulation 116 runs: robot_0182.vxd.
+[0m[0;32m0) Simulation 117 runs: robot_0089.vxd.
+[0m[0;32m0) Simulation 118 runs: robot_0131.vxd.
+[0m[0;32m0) Simulation 119 runs: robot_0232.vxd.
+[0m[0;32m0) Simulation 120 runs: robot_0024.vxd.
+[0m[0;32m0) Simulation 121 runs: robot_0127.vxd.
+[0m[0;32m0) Simulation 122 runs: robot_0190.vxd.
+[0m[0;32m0) Simulation 123 runs: robot_0123.vxd.
+[0m[0;32m0) Simulation 124 runs: robot_0205.vxd.
+[0m[0;32m0) Simulation 125 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 126 runs: robot_0179.vxd.
+[0m[0;32m0) Simulation 127 runs: robot_0239.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 224 ends: robot_0077.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 225 ends: robot_0165.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 226 ends: robot_0155.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 227 ends: robot_0039.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 228 ends: robot_0032.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 229 ends: robot_0014.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 230 ends: robot_0121.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 231 ends: robot_0203.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 233 ends: robot_0185.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 234 ends: robot_0220.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 235 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 236 ends: robot_0057.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 237 ends: robot_0002.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 238 ends: robot_0201.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 239 ends: robot_0020.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 0 ends: robot_0051.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0047.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0007.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 3 ends: robot_0153.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 4 ends: robot_0145.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 5 ends: robot_0112.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 6 ends: robot_0019.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 7 ends: robot_0199.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 8 ends: robot_0042.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 9 ends: robot_0117.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 10 ends: robot_0036.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 11 ends: robot_0234.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 12 ends: robot_0099.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 13 ends: robot_0170.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 14 ends: robot_0022.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 15 ends: robot_0058.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 16 ends: robot_0188.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 17 ends: robot_0164.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 18 ends: robot_0012.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 19 ends: robot_0197.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 20 ends: robot_0091.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 21 ends: robot_0231.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 22 ends: robot_0079.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 23 ends: robot_0061.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 24 ends: robot_0041.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 25 ends: robot_0098.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 26 ends: robot_0194.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 27 ends: robot_0204.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 28 ends: robot_0133.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 29 ends: robot_0094.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 30 ends: robot_0072.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 31 ends: robot_0104.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 64 ends: robot_0171.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 65 ends: robot_0100.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 66 ends: robot_0016.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 67 ends: robot_0184.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 68 ends: robot_0161.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 69 ends: robot_0173.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 70 ends: robot_0122.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 71 ends: robot_0226.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 73 ends: robot_0169.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 74 ends: robot_0005.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 75 ends: robot_0208.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 76 ends: robot_0067.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 77 ends: robot_0025.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 78 ends: robot_0141.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 79 ends: robot_0224.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 81 ends: robot_0056.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 82 ends: robot_0023.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 84 ends: robot_0186.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 85 ends: robot_0218.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 86 ends: robot_0059.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 87 ends: robot_0085.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 88 ends: robot_0172.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 89 ends: robot_0236.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 90 ends: robot_0064.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 91 ends: robot_0008.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 92 ends: robot_0210.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 93 ends: robot_0136.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 94 ends: robot_0217.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 95 ends: robot_0021.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 96 ends: robot_0084.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 97 ends: robot_0144.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 98 ends: robot_0180.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 99 ends: robot_0178.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 100 ends: robot_0160.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 101 ends: robot_0048.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 102 ends: robot_0028.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 103 ends: robot_0003.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 104 ends: robot_0202.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 105 ends: robot_0092.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 106 ends: robot_0138.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 107 ends: robot_0082.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 109 ends: robot_0080.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 110 ends: robot_0081.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 111 ends: robot_0195.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 112 ends: robot_0017.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 113 ends: robot_0163.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 114 ends: robot_0191.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 116 ends: robot_0182.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 117 ends: robot_0089.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 118 ends: robot_0131.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 119 ends: robot_0232.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 120 ends: robot_0024.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 121 ends: robot_0127.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 122 ends: robot_0190.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 123 ends: robot_0123.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 124 ends: robot_0205.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 125 ends: robot_0013.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 126 ends: robot_0179.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 127 ends: robot_0239.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 192 ends: robot_0193.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 193 ends: robot_0107.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 194 ends: robot_0223.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 195 ends: robot_0105.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 196 ends: robot_0159.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 197 ends: robot_0054.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 198 ends: robot_0120.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 199 ends: robot_0125.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 200 ends: robot_0035.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 201 ends: robot_0065.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 202 ends: robot_0045.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 203 ends: robot_0189.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 205 ends: robot_0215.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 206 ends: robot_0026.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 207 ends: robot_0176.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 208 ends: robot_0146.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 209 ends: robot_0209.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 210 ends: robot_0074.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 211 ends: robot_0225.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 212 ends: robot_0108.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 213 ends: robot_0044.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 214 ends: robot_0128.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 215 ends: robot_0046.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 217 ends: robot_0137.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 218 ends: robot_0096.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 219 ends: robot_0213.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 220 ends: robot_0034.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 221 ends: robot_0152.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 222 ends: robot_0033.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 223 ends: robot_0018.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 160 ends: robot_0006.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 161 ends: robot_0076.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 162 ends: robot_0181.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 163 ends: robot_0087.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 164 ends: robot_0063.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 165 ends: robot_0030.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 166 ends: robot_0001.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 167 ends: robot_0043.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 168 ends: robot_0129.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 169 ends: robot_0238.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 170 ends: robot_0103.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 171 ends: robot_0075.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 172 ends: robot_0126.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 173 ends: robot_0221.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 174 ends: robot_0174.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 175 ends: robot_0118.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 176 ends: robot_0157.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 177 ends: robot_0207.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 178 ends: robot_0214.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 179 ends: robot_0192.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 180 ends: robot_0101.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 181 ends: robot_0029.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 182 ends: robot_0156.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 183 ends: robot_0073.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 184 ends: robot_0166.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 185 ends: robot_0114.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 186 ends: robot_0004.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 187 ends: robot_0233.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 188 ends: robot_0062.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 189 ends: robot_0088.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 190 ends: robot_0187.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 191 ends: robot_0037.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 128 ends: robot_0154.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 129 ends: robot_0183.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 130 ends: robot_0115.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 131 ends: robot_0135.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 132 ends: robot_0116.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 133 ends: robot_0168.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 134 ends: robot_0235.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 135 ends: robot_0078.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 136 ends: robot_0010.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 137 ends: robot_0143.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 138 ends: robot_0049.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 139 ends: robot_0216.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 140 ends: robot_0090.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 141 ends: robot_0167.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 142 ends: robot_0130.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 143 ends: robot_0031.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 144 ends: robot_0211.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 145 ends: robot_0050.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 146 ends: robot_0198.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 147 ends: robot_0147.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 148 ends: robot_0097.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 149 ends: robot_0052.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 150 ends: robot_0040.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 151 ends: robot_0139.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 152 ends: robot_0053.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 153 ends: robot_0237.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 154 ends: robot_0206.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 155 ends: robot_0095.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 156 ends: robot_0083.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 157 ends: robot_0162.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 158 ends: robot_0109.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 32 ends: robot_0219.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 33 ends: robot_0124.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 34 ends: robot_0196.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 35 ends: robot_0106.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 36 ends: robot_0086.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 37 ends: robot_0158.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 38 ends: robot_0093.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 39 ends: robot_0009.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 40 ends: robot_0066.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 42 ends: robot_0102.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 44 ends: robot_0177.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 46 ends: robot_0175.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 47 ends: robot_0038.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 48 ends: robot_0140.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 49 ends: robot_0111.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 50 ends: robot_0119.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 51 ends: robot_0027.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 52 ends: robot_0055.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 53 ends: robot_0212.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 54 ends: robot_0113.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 55 ends: robot_0011.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 56 ends: robot_0060.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 57 ends: robot_0110.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 58 ends: robot_0200.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 59 ends: robot_0134.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 60 ends: robot_0015.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 61 ends: robot_0222.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 62 ends: robot_0142.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 63 ends: robot_0132.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424151105.vxt -o workspace/locally/20200424151105.vxr
+1 GPU found.
+=== set device to 0 for 240 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 224 runs: robot_0077.vxd.
+[0m[0;32m0) Simulation 225 runs: robot_0165.vxd.
+[0m[0;32m0) Simulation 226 runs: robot_0155.vxd.
+[0m[0;32m0) Simulation 227 runs: robot_0039.vxd.
+[0m[0;32m0) Simulation 228 runs: robot_0032.vxd.
+[0m[0;32m0) Simulation 229 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 230 runs: robot_0121.vxd.
+[0m[0;32m0) Simulation 231 runs: robot_0203.vxd.
+[0m[0;32m0) Simulation 232 runs: robot_0228.vxd.
+[0m[0;32m0) Simulation 233 runs: robot_0185.vxd.
+[0m[0;32m0) Simulation 234 runs: robot_0220.vxd.
+[0m[0;32m0) Simulation 235 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 236 runs: robot_0057.vxd.
+[0m[0;32m0) Simulation 237 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 238 runs: robot_0201.vxd.
+[0m[0;32m0) Simulation 239 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 160 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 161 runs: robot_0076.vxd.
+[0m[0;32m0) Simulation 162 runs: robot_0181.vxd.
+[0m[0;32m0) Simulation 163 runs: robot_0087.vxd.
+[0m[0;32m0) Simulation 164 runs: robot_0063.vxd.
+[0m[0;32m0) Simulation 165 runs: robot_0030.vxd.
+[0m[0;32m0) Simulation 166 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 167 runs: robot_0043.vxd.
+[0m[0;32m0) Simulation 168 runs: robot_0129.vxd.
+[0m[0;32m0) Simulation 169 runs: robot_0238.vxd.
+[0m[0;32m0) Simulation 170 runs: robot_0103.vxd.
+[0m[0;32m0) Simulation 171 runs: robot_0075.vxd.
+[0m[0;32m0) Simulation 172 runs: robot_0126.vxd.
+[0m[0;32m0) Simulation 173 runs: robot_0221.vxd.
+[0m[0;32m0) Simulation 174 runs: robot_0174.vxd.
+[0m[0;32m0) Simulation 175 runs: robot_0118.vxd.
+[0m[0;32m0) Simulation 176 runs: robot_0157.vxd.
+[0m[0;32m0) Simulation 177 runs: robot_0207.vxd.
+[0m[0;32m0) Simulation 178 runs: robot_0214.vxd.
+[0m[0;32m0) Simulation 179 runs: robot_0192.vxd.
+[0m[0;32m0) Simulation 180 runs: robot_0101.vxd.
+[0m[0;32m0) Simulation 181 runs: robot_0029.vxd.
+[0m[0;32m0) Simulation 182 runs: robot_0156.vxd.
+[0m[0;32m0) Simulation 183 runs: robot_0073.vxd.
+[0m[0;32m0) Simulation 184 runs: robot_0166.vxd.
+[0m[0;32m0) Simulation 185 runs: robot_0114.vxd.
+[0m[0;32m0) Simulation 186 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 187 runs: robot_0233.vxd.
+[0m[0;32m0) Simulation 188 runs: robot_0062.vxd.
+[0m[0;32m0) Simulation 189 runs: robot_0088.vxd.
+[0m[0;32m0) Simulation 190 runs: robot_0187.vxd.
+[0m[0;32m0) Simulation 191 runs: robot_0037.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 192 runs: robot_0193.vxd.
+[0m[0;32m0) Simulation 193 runs: robot_0107.vxd.
+[0m[0;32m0) Simulation 194 runs: robot_0223.vxd.
+[0m[0;32m0) Simulation 195 runs: robot_0105.vxd.
+[0m[0;32m0) Simulation 196 runs: robot_0159.vxd.
+[0m[0;32m0) Simulation 197 runs: robot_0054.vxd.
+[0m[0;32m0) Simulation 198 runs: robot_0120.vxd.
+[0m[0;32m0) Simulation 199 runs: robot_0125.vxd.
+[0m[0;32m0) Simulation 200 runs: robot_0035.vxd.
+[0m[0;32m0) Simulation 201 runs: robot_0065.vxd.
+[0m[0;32m0) Simulation 202 runs: robot_0045.vxd.
+[0m[0;32m0) Simulation 203 runs: robot_0189.vxd.
+[0m[0;32m0) Simulation 204 runs: robot_0151.vxd.
+[0m[0;32m0) Simulation 205 runs: robot_0215.vxd.
+[0m[0;32m0) Simulation 206 runs: robot_0026.vxd.
+[0m[0;32m0) Simulation 207 runs: robot_0176.vxd.
+[0m[0;32m0) Simulation 208 runs: robot_0146.vxd.
+[0m[0;32m0) Simulation 209 runs: robot_0209.vxd.
+[0m[0;32m0) Simulation 210 runs: robot_0074.vxd.
+[0m[0;32m0) Simulation 211 runs: robot_0225.vxd.
+[0m[0;32m0) Simulation 212 runs: robot_0108.vxd.
+[0m[0;32m0) Simulation 213 runs: robot_0044.vxd.
+[0m[0;32m0) Simulation 214 runs: robot_0128.vxd.
+[0m[0;32m0) Simulation 215 runs: robot_0046.vxd.
+[0m[0;32m0) Simulation 216 runs: robot_0149.vxd.
+[0m[0;32m0) Simulation 217 runs: robot_0137.vxd.
+[0m[0;32m0) Simulation 218 runs: robot_0096.vxd.
+[0m[0;32m0) Simulation 219 runs: robot_0213.vxd.
+[0m[0;32m0) Simulation 220 runs: robot_0034.vxd.
+[0m[0;32m0) Simulation 221 runs: robot_0152.vxd.
+[0m[0;32m0) Simulation 222 runs: robot_0033.vxd.
+[0m[0;32m0) Simulation 223 runs: robot_0018.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 64 runs: robot_0171.vxd.
+[0m[0;32m0) Simulation 65 runs: robot_0100.vxd.
+[0m[0;32m0) Simulation 66 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 67 runs: robot_0184.vxd.
+[0m[0;32m0) Simulation 68 runs: robot_0161.vxd.
+[0m[0;32m0) Simulation 69 runs: robot_0173.vxd.
+[0m[0;32m0) Simulation 70 runs: robot_0122.vxd.
+[0m[0;32m0) Simulation 71 runs: robot_0226.vxd.
+[0m[0;32m0) Simulation 72 runs: robot_0071.vxd.
+[0m[0;32m0) Simulation 73 runs: robot_0169.vxd.
+[0m[0;32m0) Simulation 74 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 75 runs: robot_0208.vxd.
+[0m[0;32m0) Simulation 76 runs: robot_0067.vxd.
+[0m[0;32m0) Simulation 77 runs: robot_0025.vxd.
+[0m[0;32m0) Simulation 78 runs: robot_0141.vxd.
+[0m[0;32m0) Simulation 79 runs: robot_0224.vxd.
+[0m[0;32m0) Simulation 80 runs: robot_0230.vxd.
+[0m[0;32m0) Simulation 81 runs: robot_0056.vxd.
+[0m[0;32m0) Simulation 82 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 83 runs: robot_0069.vxd.
+[0m[0;32m0) Simulation 84 runs: robot_0186.vxd.
+[0m[0;32m0) Simulation 85 runs: robot_0218.vxd.
+[0m[0;32m0) Simulation 86 runs: robot_0059.vxd.
+[0m[0;32m0) Simulation 87 runs: robot_0085.vxd.
+[0m[0;32m0) Simulation 88 runs: robot_0172.vxd.
+[0m[0;32m0) Simulation 89 runs: robot_0236.vxd.
+[0m[0;32m0) Simulation 90 runs: robot_0064.vxd.
+[0m[0;32m0) Simulation 91 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 92 runs: robot_0210.vxd.
+[0m[0;32m0) Simulation 93 runs: robot_0136.vxd.
+[0m[0;32m0) Simulation 94 runs: robot_0217.vxd.
+[0m[0;32m0) Simulation 95 runs: robot_0021.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 128 runs: robot_0154.vxd.
+[0m[0;32m0) Simulation 129 runs: robot_0183.vxd.
+[0m[0;32m0) Simulation 130 runs: robot_0115.vxd.
+[0m[0;32m0) Simulation 131 runs: robot_0135.vxd.
+[0m[0;32m0) Simulation 132 runs: robot_0116.vxd.
+[0m[0;32m0) Simulation 133 runs: robot_0168.vxd.
+[0m[0;32m0) Simulation 134 runs: robot_0235.vxd.
+[0m[0;32m0) Simulation 135 runs: robot_0078.vxd.
+[0m[0;32m0) Simulation 136 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 137 runs: robot_0143.vxd.
+[0m[0;32m0) Simulation 138 runs: robot_0049.vxd.
+[0m[0;32m0) Simulation 139 runs: robot_0216.vxd.
+[0m[0;32m0) Simulation 140 runs: robot_0090.vxd.
+[0m[0;32m0) Simulation 141 runs: robot_0167.vxd.
+[0m[0;32m0) Simulation 142 runs: robot_0130.vxd.
+[0m[0;32m0) Simulation 143 runs: robot_0031.vxd.
+[0m[0;32m0) Simulation 144 runs: robot_0211.vxd.
+[0m[0;32m0) Simulation 145 runs: robot_0050.vxd.
+[0m[0;32m0) Simulation 146 runs: robot_0198.vxd.
+[0m[0;32m0) Simulation 147 runs: robot_0147.vxd.
+[0m[0;32m0) Simulation 148 runs: robot_0097.vxd.
+[0m[0;32m0) Simulation 149 runs: robot_0052.vxd.
+[0m[0;32m0) Simulation 150 runs: robot_0040.vxd.
+[0m[0;32m0) Simulation 151 runs: robot_0139.vxd.
+[0m[0;32m0) Simulation 152 runs: robot_0053.vxd.
+[0m[0;32m0) Simulation 153 runs: robot_0237.vxd.
+[0m[0;32m0) Simulation 154 runs: robot_0206.vxd.
+[0m[0;32m0) Simulation 155 runs: robot_0095.vxd.
+[0m[0;32m0) Simulation 156 runs: robot_0083.vxd.
+[0m[0;32m0) Simulation 157 runs: robot_0162.vxd.
+[0m[0;32m0) Simulation 158 runs: robot_0109.vxd.
+[0m[0;32m0) Simulation 159 runs: robot_0148.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 32 runs: robot_0219.vxd.
+[0m[0;32m0) Simulation 33 runs: robot_0124.vxd.
+[0m[0;32m0) Simulation 34 runs: robot_0196.vxd.
+[0m[0;32m0) Simulation 35 runs: robot_0106.vxd.
+[0m[0;32m0) Simulation 36 runs: robot_0086.vxd.
+[0m[0;32m0) Simulation 37 runs: robot_0158.vxd.
+[0m[0;32m0) Simulation 38 runs: robot_0093.vxd.
+[0m[0;32m0) Simulation 39 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 40 runs: robot_0066.vxd.
+[0m[0;32m0) Simulation 41 runs: robot_0150.vxd.
+[0m[0;32m0) Simulation 42 runs: robot_0102.vxd.
+[0m[0;32m0) Simulation 43 runs: robot_0227.vxd.
+[0m[0;32m0) Simulation 44 runs: robot_0177.vxd.
+[0m[0;32m0) Simulation 45 runs: robot_0229.vxd.
+[0m[0;32m0) Simulation 46 runs: robot_0175.vxd.
+[0m[0;32m0) Simulation 47 runs: robot_0038.vxd.
+[0m[0;32m0) Simulation 48 runs: robot_0140.vxd.
+[0m[0;32m0) Simulation 49 runs: robot_0111.vxd.
+[0m[0;32m0) Simulation 50 runs: robot_0119.vxd.
+[0m[0;32m0) Simulation 51 runs: robot_0027.vxd.
+[0m[0;32m0) Simulation 52 runs: robot_0055.vxd.
+[0m[0;32m0) Simulation 53 runs: robot_0212.vxd.
+[0m[0;32m0) Simulation 54 runs: robot_0113.vxd.
+[0m[0;32m0) Simulation 55 runs: robot_0011.vxd.
+[0m[0;32m0) Simulation 56 runs: robot_0060.vxd.
+[0m[0;32m0) Simulation 57 runs: robot_0110.vxd.
+[0m[0;32m0) Simulation 58 runs: robot_0200.vxd.
+[0m[0;32m0) Simulation 59 runs: robot_0134.vxd.
+[0m[0;32m0) Simulation 60 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 61 runs: robot_0222.vxd.
+[0m[0;32m0) Simulation 62 runs: robot_0142.vxd.
+[0m[0;32m0) Simulation 63 runs: robot_0132.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 96 runs: robot_0084.vxd.
+[0m[0;32m0) Simulation 97 runs: robot_0144.vxd.
+[0m[0;32m0) Simulation 98 runs: robot_0180.vxd.
+[0m[0;32m0) Simulation 99 runs: robot_0178.vxd.
+[0m[0;32m0) Simulation 100 runs: robot_0160.vxd.
+[0m[0;32m0) Simulation 101 runs: robot_0048.vxd.
+[0m[0;32m0) Simulation 102 runs: robot_0028.vxd.
+[0m[0;32m0) Simulation 103 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 104 runs: robot_0202.vxd.
+[0m[0;32m0) Simulation 105 runs: robot_0092.vxd.
+[0m[0;32m0) Simulation 106 runs: robot_0138.vxd.
+[0m[0;32m0) Simulation 107 runs: robot_0082.vxd.
+[0m[0;32m0) Simulation 108 runs: robot_0070.vxd.
+[0m[0;32m0) Simulation 109 runs: robot_0080.vxd.
+[0m[0;32m0) Simulation 110 runs: robot_0081.vxd.
+[0m[0;32m0) Simulation 111 runs: robot_0195.vxd.
+[0m[0;32m0) Simulation 112 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 113 runs: robot_0163.vxd.
+[0m[0;32m0) Simulation 114 runs: robot_0191.vxd.
+[0m[0;32m0) Simulation 115 runs: robot_0068.vxd.
+[0m[0;32m0) Simulation 116 runs: robot_0182.vxd.
+[0m[0;32m0) Simulation 117 runs: robot_0089.vxd.
+[0m[0;32m0) Simulation 118 runs: robot_0131.vxd.
+[0m[0;32m0) Simulation 119 runs: robot_0232.vxd.
+[0m[0;32m0) Simulation 120 runs: robot_0024.vxd.
+[0m[0;32m0) Simulation 121 runs: robot_0127.vxd.
+[0m[0;32m0) Simulation 122 runs: robot_0190.vxd.
+[0m[0;32m0) Simulation 123 runs: robot_0123.vxd.
+[0m[0;32m0) Simulation 124 runs: robot_0205.vxd.
+[0m[0;32m0) Simulation 125 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 126 runs: robot_0179.vxd.
+[0m[0;32m0) Simulation 127 runs: robot_0239.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 0 runs: robot_0051.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0047.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0153.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0145.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0112.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0199.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0042.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0117.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0036.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0234.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0099.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0170.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0058.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0188.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0164.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0197.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0091.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0231.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0079.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0061.vxd.
+[0m[0;32m0) Simulation 24 runs: robot_0041.vxd.
+[0m[0;32m0) Simulation 25 runs: robot_0098.vxd.
+[0m[0;32m0) Simulation 26 runs: robot_0194.vxd.
+[0m[0;32m0) Simulation 27 runs: robot_0204.vxd.
+[0m[0;32m0) Simulation 28 runs: robot_0133.vxd.
+[0m[0;32m0) Simulation 29 runs: robot_0094.vxd.
+[0m[0;32m0) Simulation 30 runs: robot_0072.vxd.
+[0m[0;32m0) Simulation 31 runs: robot_0104.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+1 GPU found.
+=== set device to 0 for 240 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[1;31m
+No links and no voxels. Simulation 109 (robot_0080.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 216 (robot_0149.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 88 (robot_0172.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 89 (robot_0236.vxd) abort.
+[0m[0;32m0) Simulation 224 runs: robot_0077.vxd.
+[0m[0;32m0) Simulation 225 runs: robot_0165.vxd.
+[0m[0;32m0) Simulation 226 runs: robot_0155.vxd.
+[0m[0;32m0) Simulation 227 runs: robot_0039.vxd.
+[0m[0;32m0) Simulation 228 runs: robot_0032.vxd.
+[0m[0;32m0) Simulation 229 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 230 runs: robot_0121.vxd.
+[0m[0;32m0) Simulation 231 runs: robot_0203.vxd.
+[0m[0;32m0) Simulation 232 runs: robot_0228.vxd.
+[0m[0;32m0) Simulation 233 runs: robot_0185.vxd.
+[0m[0;32m0) Simulation 234 runs: robot_0220.vxd.
+[0m[0;32m0) Simulation 235 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 236 runs: robot_0057.vxd.
+[0m[0;32m0) Simulation 237 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 238 runs: robot_0201.vxd.
+[0m[0;32m0) Simulation 239 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 160 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 161 runs: robot_0076.vxd.
+[0m[0;32m0) Simulation 162 runs: robot_0181.vxd.
+[0m[0;32m0) Simulation 163 runs: robot_0087.vxd.
+[0m[0;32m0) Simulation 164 runs: robot_0063.vxd.
+[0m[0;32m0) Simulation 165 runs: robot_0030.vxd.
+[0m[0;32m0) Simulation 166 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 167 runs: robot_0043.vxd.
+[0m[0;32m0) Simulation 168 runs: robot_0129.vxd.
+[0m[0;32m0) Simulation 169 runs: robot_0238.vxd.
+[0m[0;32m0) Simulation 170 runs: robot_0103.vxd.
+[0m[0;32m0) Simulation 171 runs: robot_0075.vxd.
+[0m[0;32m0) Simulation 172 runs: robot_0126.vxd.
+[0m[0;32m0) Simulation 173 runs: robot_0221.vxd.
+[0m[0;32m0) Simulation 174 runs: robot_0174.vxd.
+[0m[0;32m0) Simulation 175 runs: robot_0118.vxd.
+[0m[0;32m0) Simulation 176 runs: robot_0157.vxd.
+[0m[0;32m0) Simulation 177 runs: robot_0207.vxd.
+[0m[0;32m0) Simulation 178 runs: robot_0214.vxd.
+[0m[0;32m0) Simulation 179 runs: robot_0192.vxd.
+[0m[0;32m0) Simulation 180 runs: robot_0101.vxd.
+[0m[0;32m0) Simulation 181 runs: robot_0029.vxd.
+[0m[0;32m0) Simulation 182 runs: robot_0156.vxd.
+[0m[0;32m0) Simulation 183 runs: robot_0073.vxd.
+[0m[0;32m0) Simulation 184 runs: robot_0166.vxd.
+[0m[0;32m0) Simulation 185 runs: robot_0114.vxd.
+[0m[0;32m0) Simulation 186 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 187 runs: robot_0233.vxd.
+[0m[0;32m0) Simulation 188 runs: robot_0062.vxd.
+[0m[0;32m0) Simulation 189 runs: robot_0088.vxd.
+[0m[0;32m0) Simulation 190 runs: robot_0187.vxd.
+[0m[0;32m0) Simulation 191 runs: robot_0037.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 96 runs: robot_0084.vxd.
+[0m[0;32m0) Simulation 97 runs: robot_0144.vxd.
+[0m[0;32m0) Simulation 98 runs: robot_0180.vxd.
+[0m[0;32m0) Simulation 99 runs: robot_0178.vxd.
+[0m[0;32m0) Simulation 100 runs: robot_0160.vxd.
+[0m[0;32m0) Simulation 101 runs: robot_0048.vxd.
+[0m[0;32m0) Simulation 102 runs: robot_0028.vxd.
+[0m[0;32m0) Simulation 103 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 104 runs: robot_0202.vxd.
+[0m[0;32m0) Simulation 105 runs: robot_0092.vxd.
+[0m[0;32m0) Simulation 106 runs: robot_0138.vxd.
+[0m[0;32m0) Simulation 107 runs: robot_0082.vxd.
+[0m[0;32m0) Simulation 108 runs: robot_0070.vxd.
+[0m[0;32m0) Simulation 110 runs: robot_0081.vxd.
+[0m[0;32m0) Simulation 111 runs: robot_0195.vxd.
+[0m[0;32m0) Simulation 112 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 113 runs: robot_0163.vxd.
+[0m[0;32m0) Simulation 114 runs: robot_0191.vxd.
+[0m[0;32m0) Simulation 115 runs: robot_0068.vxd.
+[0m[0;32m0) Simulation 116 runs: robot_0182.vxd.
+[0m[0;32m0) Simulation 117 runs: robot_0089.vxd.
+[0m[0;32m0) Simulation 118 runs: robot_0131.vxd.
+[0m[0;32m0) Simulation 119 runs: robot_0232.vxd.
+[0m[0;32m0) Simulation 120 runs: robot_0024.vxd.
+[0m[0;32m0) Simulation 121 runs: robot_0127.vxd.
+[0m[0;32m0) Simulation 122 runs: robot_0190.vxd.
+[0m[0;32m0) Simulation 123 runs: robot_0123.vxd.
+[0m[0;32m0) Simulation 124 runs: robot_0205.vxd.
+[0m[0;32m0) Simulation 125 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 126 runs: robot_0179.vxd.
+[0m[0;32m0) Simulation 127 runs: robot_0239.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000839; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 64 runs: robot_0171.vxd.
+[0m[0;32m0) Simulation 65 runs: robot_0100.vxd.
+[0m[0;32m0) Simulation 66 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 67 runs: robot_0184.vxd.
+[0m[0;32m0) Simulation 68 runs: robot_0161.vxd.
+[0m[0;32m0) Simulation 69 runs: robot_0173.vxd.
+[0m[0;32m0) Simulation 70 runs: robot_0122.vxd.
+[0m[0;32m0) Simulation 71 runs: robot_0226.vxd.
+[0m[0;32m0) Simulation 72 runs: robot_0071.vxd.
+[0m[0;32m0) Simulation 73 runs: robot_0169.vxd.
+[0m[0;32m0) Simulation 74 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 75 runs: robot_0208.vxd.
+[0m[0;32m0) Simulation 76 runs: robot_0067.vxd.
+[0m[0;32m0) Simulation 77 runs: robot_0025.vxd.
+[0m[0;32m0) Simulation 78 runs: robot_0141.vxd.
+[0m[0;32m0) Simulation 79 runs: robot_0224.vxd.
+[0m[0;32m0) Simulation 80 runs: robot_0230.vxd.
+[0m[0;32m0) Simulation 81 runs: robot_0056.vxd.
+[0m[0;32m0) Simulation 82 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 83 runs: robot_0069.vxd.
+[0m[0;32m0) Simulation 84 runs: robot_0186.vxd.
+[0m[0;32m0) Simulation 85 runs: robot_0218.vxd.
+[0m[0;32m0) Simulation 86 runs: robot_0059.vxd.
+[0m[0;32m0) Simulation 87 runs: robot_0085.vxd.
+[0m[0;32m0) Simulation 90 runs: robot_0064.vxd.
+[0m[0;32m0) Simulation 91 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 92 runs: robot_0210.vxd.
+[0m[0;32m0) Simulation 93 runs: robot_0136.vxd.
+[0m[0;32m0) Simulation 94 runs: robot_0217.vxd.
+[0m[0;32m0) Simulation 95 runs: robot_0021.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 32 runs: robot_0219.vxd.
+[0m[0;32m0) Simulation 33 runs: robot_0124.vxd.
+[0m[0;32m0) Simulation 34 runs: robot_0196.vxd.
+[0m[0;32m0) Simulation 35 runs: robot_0106.vxd.
+[0m[0;32m0) Simulation 36 runs: robot_0086.vxd.
+[0m[0;32m0) Simulation 37 runs: robot_0158.vxd.
+[0m[0;32m0) Simulation 38 runs: robot_0093.vxd.
+[0m[0;32m0) Simulation 39 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 40 runs: robot_0066.vxd.
+[0m[0;32m0) Simulation 41 runs: robot_0150.vxd.
+[0m[0;32m0) Simulation 42 runs: robot_0102.vxd.
+[0m[0;32m0) Simulation 43 runs: robot_0227.vxd.
+[0m[0;32m0) Simulation 44 runs: robot_0177.vxd.
+[0m[0;32m0) Simulation 45 runs: robot_0229.vxd.
+[0m[0;32m0) Simulation 46 runs: robot_0175.vxd.
+[0m[0;32m0) Simulation 47 runs: robot_0038.vxd.
+[0m[0;32m0) Simulation 48 runs: robot_0140.vxd.
+[0m[0;32m0) Simulation 49 runs: robot_0111.vxd.
+[0m[0;32m0) Simulation 50 runs: robot_0119.vxd.
+[0m[0;32m0) Simulation 51 runs: robot_0027.vxd.
+[0m[0;32m0) Simulation 52 runs: robot_0055.vxd.
+[0m[0;32m0) Simulation 53 runs: robot_0212.vxd.
+[0m[0;32m0) Simulation 54 runs: robot_0113.vxd.
+[0m[0;32m0) Simulation 55 runs: robot_0011.vxd.
+[0m[0;32m0) Simulation 56 runs: robot_0060.vxd.
+[0m[0;32m0) Simulation 57 runs: robot_0110.vxd.
+[0m[0;32m0) Simulation 58 runs: robot_0200.vxd.
+[0m[0;32m0) Simulation 59 runs: robot_0134.vxd.
+[0m[0;32m0) Simulation 60 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 61 runs: robot_0222.vxd.
+[0m[0;32m0) Simulation 62 runs: robot_0142.vxd.
+[0m[0;32m0) Simulation 63 runs: robot_0132.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 192 runs: robot_0193.vxd.
+[0m[0;32m0) Simulation 193 runs: robot_0107.vxd.
+[0m[0;32m0) Simulation 194 runs: robot_0223.vxd.
+[0m[0;32m0) Simulation 195 runs: robot_0105.vxd.
+[0m[0;32m0) Simulation 196 runs: robot_0159.vxd.
+[0m[0;32m0) Simulation 197 runs: robot_0054.vxd.
+[0m[0;32m0) Simulation 198 runs: robot_0120.vxd.
+[0m[0;32m0) Simulation 199 runs: robot_0125.vxd.
+[0m[0;32m0) Simulation 200 runs: robot_0035.vxd.
+[0m[0;32m0) Simulation 201 runs: robot_0065.vxd.
+[0m[0;32m0) Simulation 202 runs: robot_0045.vxd.
+[0m[0;32m0) Simulation 203 runs: robot_0189.vxd.
+[0m[0;32m0) Simulation 204 runs: robot_0151.vxd.
+[0m[0;32m0) Simulation 205 runs: robot_0215.vxd.
+[0m[0;32m0) Simulation 206 runs: robot_0026.vxd.
+[0m[0;32m0) Simulation 207 runs: robot_0176.vxd.
+[0m[0;32m0) Simulation 208 runs: robot_0146.vxd.
+[0m[0;32m0) Simulation 209 runs: robot_0209.vxd.
+[0m[0;32m0) Simulation 210 runs: robot_0074.vxd.
+[0m[0;32m0) Simulation 211 runs: robot_0225.vxd.
+[0m[0;32m0) Simulation 212 runs: robot_0108.vxd.
+[0m[0;32m0) Simulation 213 runs: robot_0044.vxd.
+[0m[0;32m0) Simulation 214 runs: robot_0128.vxd.
+[0m[0;32m0) Simulation 215 runs: robot_0046.vxd.
+[0m[0;32m0) Simulation 217 runs: robot_0137.vxd.
+[0m[0;32m0) Simulation 218 runs: robot_0096.vxd.
+[0m[0;32m0) Simulation 219 runs: robot_0213.vxd.
+[0m[0;32m0) Simulation 220 runs: robot_0034.vxd.
+[0m[0;32m0) Simulation 221 runs: robot_0152.vxd.
+[0m[0;32m0) Simulation 222 runs: robot_0033.vxd.
+[0m[0;32m0) Simulation 223 runs: robot_0018.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 128 runs: robot_0154.vxd.
+[0m[0;32m0) Simulation 129 runs: robot_0183.vxd.
+[0m[0;32m0) Simulation 130 runs: robot_0115.vxd.
+[0m[0;32m0) Simulation 131 runs: robot_0135.vxd.
+[0m[0;32m0) Simulation 132 runs: robot_0116.vxd.
+[0m[0;32m0) Simulation 133 runs: robot_0168.vxd.
+[0m[0;32m0) Simulation 134 runs: robot_0235.vxd.
+[0m[0;32m0) Simulation 135 runs: robot_0078.vxd.
+[0m[0;32m0) Simulation 136 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 137 runs: robot_0143.vxd.
+[0m[0;32m0) Simulation 138 runs: robot_0049.vxd.
+[0m[0;32m0) Simulation 139 runs: robot_0216.vxd.
+[0m[0;32m0) Simulation 140 runs: robot_0090.vxd.
+[0m[0;32m0) Simulation 141 runs: robot_0167.vxd.
+[0m[0;32m0) Simulation 142 runs: robot_0130.vxd.
+[0m[0;32m0) Simulation 143 runs: robot_0031.vxd.
+[0m[0;32m0) Simulation 144 runs: robot_0211.vxd.
+[0m[0;32m0) Simulation 145 runs: robot_0050.vxd.
+[0m[0;32m0) Simulation 146 runs: robot_0198.vxd.
+[0m[0;32m0) Simulation 147 runs: robot_0147.vxd.
+[0m[0;32m0) Simulation 148 runs: robot_0097.vxd.
+[0m[0;32m0) Simulation 149 runs: robot_0052.vxd.
+[0m[0;32m0) Simulation 150 runs: robot_0040.vxd.
+[0m[0;32m0) Simulation 151 runs: robot_0139.vxd.
+[0m[0;32m0) Simulation 152 runs: robot_0053.vxd.
+[0m[0;32m0) Simulation 153 runs: robot_0237.vxd.
+[0m[0;32m0) Simulation 154 runs: robot_0206.vxd.
+[0m[0;32m0) Simulation 155 runs: robot_0095.vxd.
+[0m[0;32m0) Simulation 156 runs: robot_0083.vxd.
+[0m[0;32m0) Simulation 157 runs: robot_0162.vxd.
+[0m[0;32m0) Simulation 158 runs: robot_0109.vxd.
+[0m[0;32m0) Simulation 159 runs: robot_0148.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;32m0) Simulation 0 runs: robot_0051.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0047.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0153.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0145.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0112.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0199.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0042.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0117.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0036.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0234.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0099.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0170.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0058.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0188.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0164.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0197.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0091.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0231.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0079.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0061.vxd.
+[0m[0;32m0) Simulation 24 runs: robot_0041.vxd.
+[0m[0;32m0) Simulation 25 runs: robot_0098.vxd.
+[0m[0;32m0) Simulation 26 runs: robot_0194.vxd.
+[0m[0;32m0) Simulation 27 runs: robot_0204.vxd.
+[0m[0;32m0) Simulation 28 runs: robot_0133.vxd.
+[0m[0;32m0) Simulation 29 runs: robot_0094.vxd.
+[0m[0;32m0) Simulation 30 runs: robot_0072.vxd.
+[0m[0;32m0) Simulation 31 runs: robot_0104.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+1 GPU found.
+=== set device to 0 for 24 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[1;31m
+No links and no voxels. Simulation 5 (robot_0011.vxd) abort.
+[0m[0;32m0) Simulation 0 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0021.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0018.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0007.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0019.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0022.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 3 ends: robot_0012.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 4 ends: robot_0009.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 6 ends: robot_0015.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 7 ends: robot_0016.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 8 ends: robot_0005.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 9 ends: robot_0023.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 10 ends: robot_0008.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 11 ends: robot_0021.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 12 ends: robot_0003.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 13 ends: robot_0017.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 14 ends: robot_0013.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 15 ends: robot_0010.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 16 ends: robot_0006.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 17 ends: robot_0001.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 18 ends: robot_0004.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 19 ends: robot_0018.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 20 ends: robot_0014.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 21 ends: robot_0000.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 22 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 23 ends: robot_0020.vxd Time: 1.000067, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424151945.vxt -o workspace/locally/20200424151945.vxr
+1 GPU found.
+=== set device to 0 for 24 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0011.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0021.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0018.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0007.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0019.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0022.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 3 ends: robot_0012.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 4 ends: robot_0009.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 5 ends: robot_0011.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 6 ends: robot_0015.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 7 ends: robot_0016.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 8 ends: robot_0005.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 9 ends: robot_0023.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 10 ends: robot_0008.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 11 ends: robot_0021.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 12 ends: robot_0003.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 13 ends: robot_0017.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 14 ends: robot_0013.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 15 ends: robot_0010.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 16 ends: robot_0006.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 17 ends: robot_0001.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 18 ends: robot_0004.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 19 ends: robot_0018.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 20 ends: robot_0014.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 21 ends: robot_0000.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 22 ends: robot_0002.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 23 ends: robot_0020.vxd Time: 1.000067, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424152013.vxt -o workspace/locally/20200424152013.vxr
+1 GPU found.
+=== set device to 0 for 24 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0011.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0021.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0018.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000197; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0007.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0019.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0022.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 3 ends: robot_0012.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 4 ends: robot_0009.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 5 ends: robot_0011.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 6 ends: robot_0015.vxd Time: 1.000148, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 7 ends: robot_0016.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 8 ends: robot_0005.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 9 ends: robot_0023.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 10 ends: robot_0008.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 11 ends: robot_0021.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 12 ends: robot_0003.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 13 ends: robot_0017.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 14 ends: robot_0013.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 15 ends: robot_0010.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 16 ends: robot_0006.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 17 ends: robot_0001.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 18 ends: robot_0004.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 19 ends: robot_0018.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 20 ends: robot_0014.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 21 ends: robot_0000.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 22 ends: robot_0002.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 23 ends: robot_0020.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424152046.vxt -o workspace/locally/20200424152046.vxr
+1 GPU found.
+=== set device to 0 for 24 simulations ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0007.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0019.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0022.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0012.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0009.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0011.vxd.
+[0m[0;32m0) Simulation 6 runs: robot_0015.vxd.
+[0m[0;32m0) Simulation 7 runs: robot_0016.vxd.
+[0m[0;32m0) Simulation 8 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 9 runs: robot_0023.vxd.
+[0m[0;32m0) Simulation 10 runs: robot_0008.vxd.
+[0m[0;32m0) Simulation 11 runs: robot_0021.vxd.
+[0m[0;32m0) Simulation 12 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 13 runs: robot_0017.vxd.
+[0m[0;32m0) Simulation 14 runs: robot_0013.vxd.
+[0m[0;32m0) Simulation 15 runs: robot_0010.vxd.
+[0m[0;32m0) Simulation 16 runs: robot_0006.vxd.
+[0m[0;32m0) Simulation 17 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 18 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 19 runs: robot_0018.vxd.
+[0m[0;32m0) Simulation 20 runs: robot_0014.vxd.
+[0m[0;32m0) Simulation 21 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 22 runs: robot_0002.vxd.
+[0m[0;32m0) Simulation 23 runs: robot_0020.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 

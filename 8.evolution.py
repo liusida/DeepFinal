@@ -15,7 +15,57 @@
 # use the model to mutate high fitness population
 # write the next generation of population with high fitnesses and mutants
 
-from exp_settings import *
+
+import random
+import numpy as np
+from voxelyze.helper import cprint
+
+DNN = True
+seed = 1000
+experiment_name = "exp"
+def init_all(in_DNN=True, in_seed=1000):
+    global DNN, seed, experiment_name
+    DNN = in_DNN
+    seed = in_seed
+    random.seed(seed)
+    np.random.seed(seed)
+    if DNN:
+        wo = ''
+    else:
+        wo = 'wo_'
+    experiment_name = f"Surrogate_{wo}DNN_{seed}"
+
+best_last_round = 0
+body_dimension_n = 6
+fitness_score_surpass_time = 0
+
+def init_body_dimension_n(n):
+    global body_dimension_n
+    body_dimension_n = n
+
+def body_dimension(generation=0, fitness_scores=[0]):
+    return [6,6,6]
+
+def mutation_rate(generation=0):
+    # 19 times weight change, 1 time activation change
+    ret = [19, 0.1]
+    return ret
+
+def target_population_size(generation=0):
+    return 240
+
+hidden_layers = [10,10,10]
+
+
+import sys
+
+if len(sys.argv)==3:
+    print(f"in_DNN={sys.argv[1]}, in_seed={sys.argv[2]}")
+    init_all(in_DNN=bool(sys.argv[1]), in_seed=int(sys.argv[2]))
+else:
+    print("Usage:\n\npython 8.evolution.py <DNN> <seed>\n")
+    exit()
+
 assert target_population_size()%3==0
 
 """ == Settings for Deep Learning == """
@@ -145,24 +195,23 @@ while(True):
 
         # train
         total_number = train_X.size()[0]
-        if generation > 40:
-            for epoch in range(training_epochs_per_generation):
-                for i in range(math.ceil(total_number/batch_size)):
-                    batch_start = i*batch_size
-                    batch_end = (i+1)*batch_size if (i+1)*batch_size<total_number-1 else total_number-1
-                    # print(f"{batch_start} - {batch_end}")
-                    train_X_batch = train_X[batch_start:batch_end]
-                    train_Y_batch = train_Y[batch_start:batch_end]
+        for epoch in range(training_epochs_per_generation):
+            for i in range(math.ceil(total_number/batch_size)):
+                batch_start = i*batch_size
+                batch_end = (i+1)*batch_size if (i+1)*batch_size<total_number-1 else total_number-1
+                # print(f"{batch_start} - {batch_end}")
+                train_X_batch = train_X[batch_start:batch_end]
+                train_Y_batch = train_Y[batch_start:batch_end]
 
-                    optimizer.zero_grad()   # zero the gradient buffers
-                    Y_hat = net(train_X_batch)
-                    train_loss = criterion(Y_hat, train_Y_batch)
-                    train_loss.backward()
-                    optimizer.step()    # Does the update
-            Y_hat = net(current_X_t)
-            test_loss = criterion(Y_hat, current_Y_t)
-            msg = f"epoch: {epoch:05}; train_loss: {train_loss:.5f}; test_loss: {test_loss:.5f}. "
-            print(msg)
+                optimizer.zero_grad()   # zero the gradient buffers
+                Y_hat = net(train_X_batch)
+                train_loss = criterion(Y_hat, train_Y_batch)
+                train_loss.backward()
+                optimizer.step()    # Does the update
+        Y_hat = net(current_X_t)
+        test_loss = criterion(Y_hat, current_Y_t)
+        msg = f"epoch: {epoch:05}; train_loss: {train_loss:.5f}; test_loss: {test_loss:.5f}. "
+        print(msg)
             
 
     # report the fitness
@@ -193,7 +242,7 @@ while(True):
     # os.system("python plot_reports.py > /dev/null")
     # next generation
     generation += 1
-    if DNN:
+    if DNN and generation>40:
         next_generation = evolution.next_generation_with_prediction(sorted_result, net, body_one_hot)
     else:
         next_generation = evolution.next_generation(sorted_result)

@@ -8,10 +8,20 @@ import random
 import numpy as np
 from voxelyze.helper import cprint
 
-DNN = False
-seed = 1001
-random.seed(seed)
-np.random.seed(seed)
+DNN = True
+seed = 1000
+experiment_name = "exp"
+def init_all(in_DNN=True, in_seed=1000):
+    global DNN, seed, experiment_name
+    DNN = in_DNN
+    seed = in_seed
+    random.seed(seed)
+    np.random.seed(seed)
+    if DNN:
+        wo = ''
+    else:
+        wo = 'wo_'
+    experiment_name = f"Surrogate_{wo}DNN_{seed}"
 
 # ============== should be able to change during evolution: ================
 #  Plan: evolve a 100x100x100 body
@@ -41,17 +51,8 @@ def mutation_rate(generation=0):
     return ret
 
 def target_population_size(generation=0):
-    if generation<10:
-        return 240
-        # return 500
-    else:
-        return 240
-        # return 40
+    return 24
 
 # =================== cannot change during evolution: =======================
-if DNN:
-    wo = ''
-else:
-    wo = 'wo_'
-experiment_name = f"Surrogate_{wo}DNN_{seed}"
+
 hidden_layers = [10,10,10]
