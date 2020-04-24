@@ -41,10 +41,10 @@ def mutation_rate(generation=0):
 
 def target_population_size(generation=0):
     if generation<10:
-        return 40
+        return 50
         # return 500
     else:
-        return 40
+        return 50
         # return 40
 
 # =================== cannot change during evolution: =======================

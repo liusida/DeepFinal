@@ -34,7 +34,7 @@ import networks
 
 torch.manual_seed(seed)
 
-GPU = True
+GPU = False
 if GPU:
     dtype = torch.cuda.FloatTensor
     device = 'GPU'
@@ -53,13 +53,19 @@ train_Y = None
 # train_X.shape [?, 6, 6, 6, 5]
 # train_Y.shape [?, 1]
 
-def body_one_hot_gpu(body, num_classes=5):
+def body_one_hot(body, num_classes=5):
     """ body is a numpy [?,6,6,6] array, with max number of num_classes-1, say 4. """
-    body_t = torch.from_numpy(body).type(torch.cuda.LongTensor)
+    if GPU:
+        dlong = torch.cuda.LongTensor
+        dfloat = torch.cuda.FloatTensor
+    else:
+        dlong = torch.LongTensor
+        dfloat = torch.FloatTensor
+    body_t = torch.from_numpy(body).type(dlong)
     batch_size = body_t.size()[0]
     body_t = body_t.view(batch_size,6,6,6,1)
     # One hot encoding buffer that you create out of the loop and just keep reusing
-    body_onehot = torch.cuda.FloatTensor(batch_size, 6,6,6, num_classes).zero_()
+    body_onehot = dfloat(batch_size, 6,6,6, num_classes).zero_()
     body_onehot.scatter_(4, body_t, 1)
     return body_onehot
 
@@ -102,7 +108,7 @@ while(True):
         for i in range(current_population_size):
             current_X.append( evolution.population['phenotype'][i]['body'] )
         current_X = np.array(current_X)
-        current_X_t = body_one_hot_gpu(current_X)
+        current_X_t = body_one_hot(current_X)
         Y_hat = net(current_X_t)
         sorted_id = torch.argsort(Y_hat, dim=0, descending=True).cpu().numpy().reshape(-1)
         print(f"Predicted sort: {sorted_id}")
@@ -124,7 +130,7 @@ while(True):
             current_Y.append( sorted_result['fitness'][i])
         current_X = np.array(current_X)
         current_Y = np.array(current_Y).reshape([-1,1])
-        current_X_t = body_one_hot_gpu(current_X)
+        current_X_t = body_one_hot(current_X)
         current_Y_t = torch.from_numpy(current_Y).type(dtype)
         # add to training set
         if train_X is None:
