@@ -18,14 +18,12 @@
 
 import random
 import numpy as np
+import sys
 
-DNN = True
-seed = 1000
-experiment_name = "exp"
-def init_all(in_DNN=True, in_seed=1000):
-    global DNN, seed, experiment_name
-    DNN = in_DNN
-    seed = in_seed
+if len(sys.argv)==3:
+    print(f"in_DNN={sys.argv[1]}, in_seed={sys.argv[2]}", flush=True)
+    DNN = bool(sys.argv[1])
+    seed = int(sys.argv[2])
     random.seed(seed)
     np.random.seed(seed)
     if DNN:
@@ -34,6 +32,11 @@ def init_all(in_DNN=True, in_seed=1000):
         wo = 'wo_'
     experiment_name = f"Surrogate_{wo}DNN_{seed}"
     print(f"Experiment name: {experiment_name}.", flush=True)
+
+else:
+    print("Usage:\n\npython 8.evolution.py <DNN> <seed>\n")
+    exit()
+
 
 best_last_round = 0
 body_dimension_n = 6
@@ -55,16 +58,6 @@ def target_population_size(generation=0):
     return 240
 
 hidden_layers = [10,10,10]
-
-
-import sys
-
-if len(sys.argv)==3:
-    print(f"in_DNN={sys.argv[1]}, in_seed={sys.argv[2]}", flush=True)
-    init_all(in_DNN=bool(sys.argv[1]), in_seed=int(sys.argv[2]))
-else:
-    print("Usage:\n\npython 8.evolution.py <DNN> <seed>\n")
-    exit()
 
 assert target_population_size()%3==0
 
