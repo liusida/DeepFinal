@@ -18,7 +18,6 @@
 
 import random
 import numpy as np
-from voxelyze.helper import cprint
 
 DNN = True
 seed = 1000
@@ -34,6 +33,7 @@ def init_all(in_DNN=True, in_seed=1000):
     else:
         wo = 'wo_'
     experiment_name = f"Surrogate_{wo}DNN_{seed}"
+    print(f"Experiment name: {experiment_name}.", flush=True)
 
 best_last_round = 0
 body_dimension_n = 6
@@ -60,7 +60,7 @@ hidden_layers = [10,10,10]
 import sys
 
 if len(sys.argv)==3:
-    print(f"in_DNN={sys.argv[1]}, in_seed={sys.argv[2]}")
+    print(f"in_DNN={sys.argv[1]}, in_seed={sys.argv[2]}", flush=True)
     init_all(in_DNN=bool(sys.argv[1]), in_seed=int(sys.argv[2]))
 else:
     print("Usage:\n\npython 8.evolution.py <DNN> <seed>\n")
