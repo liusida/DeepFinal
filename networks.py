@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-body_dim = 8
+body_dim = 6
 """
 Compare different archetectures (all input has the same dimension [?,body_dim,body_dim,body_dim,5]):
 

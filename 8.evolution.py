@@ -39,7 +39,7 @@ else:
 
 
 best_last_round = 0
-body_dimension_n = 8
+body_dimension_n = 6
 fitness_score_surpass_time = 0
 
 def init_body_dimension_n(n):
@@ -47,7 +47,7 @@ def init_body_dimension_n(n):
     body_dimension_n = n
 
 def body_dimension(generation=0, fitness_scores=[0]):
-    return [8,8,8]
+    return [6,6,6]
 
 def mutation_rate(generation=0):
     # 1 time weight change, 1 time activation change; weight std 0.5.
@@ -97,7 +97,7 @@ train_Y = None
 # train_X.shape [?, 6, 6, 6, 5]
 # train_Y.shape [?, 1]
 
-def body_one_hot(body, dim=8, num_classes=5):
+def body_one_hot(body, dim=6, num_classes=5):
     """ body is a numpy [?,6,6,6] array, with max number of num_classes-1, say 4. """
     if GPU:
         dlong = torch.cuda.LongTensor
