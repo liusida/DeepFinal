@@ -55,6 +55,9 @@ def mutation_rate(generation=0):
     return ret
 
 def target_population_size(generation=0):
+    if generation>40 and generation%40==0:
+        print("Let's do a great distinction!")
+        return 3
     return 240
 
 hidden_layers = [10,10,10]
