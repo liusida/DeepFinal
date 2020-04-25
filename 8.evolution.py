@@ -64,11 +64,7 @@ def mutation_rate(generation=0):
     ret = [4, 0.3]
     return ret
 
-def target_population_size(generation=0, distinction=True):
-    if distinction:
-        if generation>40 and generation%40==0:
-            print("Let's do a great distinction!")
-            return 3
+def target_population_size(generation=0):
     return 240
 
 hidden_layers = [10,10,10]
@@ -133,6 +129,7 @@ from voxelyze.evolution.cppn_alife.CPPNEvolution import CPPNEvolution
 import numpy as np
 import shutil, random, os
 generation = 0
+critical_generation = 40
 
 try:
     shutil.rmtree(f"data/experiment_{experiment_name}")
@@ -241,7 +238,7 @@ while(True):
     # bot.send(msg, 1, "GUB0XS56E")
 
     # dynamical sceduling
-    evolution.target_population_size = target_population_size(generation, distinction)
+    evolution.target_population_size = target_population_size(generation)
     evolution.body_dimension = body_dimension(generation, sorted_result["fitness"])
     evolution.mutation_rate = mutation_rate(generation)
 
@@ -249,7 +246,12 @@ while(True):
     # os.system("python plot_reports.py > /dev/null")
     # next generation
     generation += 1
-    if DNN and generation>40:
-        next_generation = evolution.next_generation_with_prediction(sorted_result, net, body_one_hot)
-    else:
-        next_generation = evolution.next_generation(sorted_result)
+    if distinction and generation>critical_generation and generation%critical_generation==0:
+        print("---------------------------> Distinction!! ")
+        evolution.init_geno(hidden_layers=hidden_layers)
+        evolution.express()
+    else:            
+        if DNN and generation>critical_generation:
+            next_generation = evolution.next_generation_with_prediction(sorted_result, net, body_one_hot)
+        else:
+            next_generation = evolution.next_generation(sorted_result)

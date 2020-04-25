@@ -1,0 +1,450 @@
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424232842.vxt -o workspace/locally/20200424232842.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424232903.vxt -o workspace/locally/20200424232903.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424232924.vxt -o workspace/locally/20200424232924.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424233057.vxt -o workspace/locally/20200424233057.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424233439.vxt -o workspace/locally/20200424233439.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424233902.vxt -o workspace/locally/20200424233902.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424233926.vxt -o workspace/locally/20200424233926.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424233947.vxt -o workspace/locally/20200424233947.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234009.vxt -o workspace/locally/20200424234009.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234032.vxt -o workspace/locally/20200424234032.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234104.vxt -o workspace/locally/20200424234104.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234128.vxt -o workspace/locally/20200424234128.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234157.vxt -o workspace/locally/20200424234157.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234217.vxt -o workspace/locally/20200424234217.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234238.vxt -o workspace/locally/20200424234238.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234300.vxt -o workspace/locally/20200424234300.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234323.vxt -o workspace/locally/20200424234323.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234356.vxt -o workspace/locally/20200424234356.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234420.vxt -o workspace/locally/20200424234420.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234442.vxt -o workspace/locally/20200424234442.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234505.vxt -o workspace/locally/20200424234505.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000067, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424234539.vxt -o workspace/locally/20200424234539.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200424235917.vxt -o workspace/locally/20200424235917.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425000359.vxt -o workspace/locally/20200425000359.vxr
+1 GPU found.
+=== set device to 0 for 3 simulations ===
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0001.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 1 ends: robot_0000.vxd Time: 1.000050, angleSampleTimes: 5.
+[0m[0;34m0) Simulation 2 ends: robot_0002.vxd Time: 1.000050, angleSampleTimes: 5.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425000531.vxt -o workspace/locally/20200425000531.vxr

@@ -44,9 +44,11 @@ seed=5
 
 seed=4 works
 seed=5 seems no improvement
+seed=3 is still running
 
-Let's introduce a means called "Great Distinction"!
+Let's introduce a means called "Great Distinction"! population will reduce to 3 every 40 generation.
 
-seed=6,7,8 population will reduce to 3 every 40 generation.
+seed=6,7,8 all with three trials: DNN_ds wo_DNN_ds wo_DNN
+
 
 

@@ -1,0 +1,2358 @@
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010041, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010041, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100131.vxt -o workspace/locally/20200425100131.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100133.vxt -o workspace/locally/20200425100133.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100133.vxt -o workspace/locally/20200425100133.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100134.vxt -o workspace/locally/20200425100134.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100134.vxt -o workspace/locally/20200425100134.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100134.vxt -o workspace/locally/20200425100134.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100135.vxt -o workspace/locally/20200425100135.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100135.vxt -o workspace/locally/20200425100135.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100135.vxt -o workspace/locally/20200425100135.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100135.vxt -o workspace/locally/20200425100135.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100136.vxt -o workspace/locally/20200425100136.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100136.vxt -o workspace/locally/20200425100136.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100136.vxt -o workspace/locally/20200425100136.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100136.vxt -o workspace/locally/20200425100136.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010041, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010041, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100137.vxt -o workspace/locally/20200425100137.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100137.vxt -o workspace/locally/20200425100137.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100137.vxt -o workspace/locally/20200425100137.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000084; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010041, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100138.vxt -o workspace/locally/20200425100138.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100138.vxt -o workspace/locally/20200425100138.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100139.vxt -o workspace/locally/20200425100139.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100140.vxt -o workspace/locally/20200425100140.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100141.vxt -o workspace/locally/20200425100141.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100142.vxt -o workspace/locally/20200425100142.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100143.vxt -o workspace/locally/20200425100143.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100144.vxt -o workspace/locally/20200425100144.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 1 runs: robot_0003.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 1 ends: robot_0003.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100145.vxt -o workspace/locally/20200425100145.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100145.vxt -o workspace/locally/20200425100145.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100145.vxt -o workspace/locally/20200425100145.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[1;31m
+No links and no voxels. Simulation 1 (robot_0003.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 2 (robot_0001.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 4 (robot_0000.vxd) abort.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100146.vxt -o workspace/locally/20200425100146.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100146.vxt -o workspace/locally/20200425100146.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100146.vxt -o workspace/locally/20200425100146.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100146.vxt -o workspace/locally/20200425100146.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100147.vxt -o workspace/locally/20200425100147.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[1;31m
+No links and no voxels. Simulation 0 (robot_0005.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 1 (robot_0003.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 2 (robot_0001.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 3 (robot_0004.vxd) abort.
+[0m[1;31m
+No links and no voxels. Simulation 5 (robot_0002.vxd) abort.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+Error: output file exists.
+
+This application is balabalabala....
+Usage:
+xxx
+Allowed options:
+  -h [ --help ]         produce help message
+  -i [ --input ] arg    Set input directory path which contains a generation of
+                        VXA files.
+  -o [ --output ] arg   Set output file path for report. (e.g. report_1.xml)
+  -f [ --force ]        Overwrite output file if exists.
+
+Running simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100148.vxt -o workspace/locally/20200425100148.vxr
+1 GPU found.
+=== set device to 0 for 6 simulations ===
+
+
+
+
+
+
+Total GPU memory 8513978368 bytes.
+Set GPU heap size to be 5108387020 bytes.
+[0;32m0) Simulation 0 runs: robot_0005.vxd.
+[0m[0;32m0) Simulation 2 runs: robot_0001.vxd.
+[0m[0;32m0) Simulation 3 runs: robot_0004.vxd.
+[0m[0;32m0) Simulation 4 runs: robot_0000.vxd.
+[0m[0;32m0) Simulation 5 runs: robot_0002.vxd.
+[0mreal_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+real_stepsize: 1 ; recommendedTimeStep 0.000265; d_v3->DtFrac 0.900000 . 
+[0;34m0) Simulation 0 ends: robot_0005.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 2 ends: robot_0001.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 3 ends: robot_0004.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 4 ends: robot_0000.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[0;34m0) Simulation 5 ends: robot_0002.vxd Time: 0.010027, angleSampleTimes: 0.
+[0m[1;31m
+No links and no voxels. Simulation 1 (robot_0003.vxd) abort.
+[0mRunning simulation locally by default.
+./vx3_node_worker -i workspace/locally/20200425100149.vxt -o workspace/locally/20200425100149.vxr
+File not exist: workspace/locally/20200425100149.vxr. Worker failed to finish the job.
