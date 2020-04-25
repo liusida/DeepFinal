@@ -47,11 +47,11 @@ def init_body_dimension_n(n):
     body_dimension_n = n
 
 def body_dimension(generation=0, fitness_scores=[0]):
-    return [6,6,6]
+    return [8,8,8]
 
 def mutation_rate(generation=0):
-    # 19 times weight change, 1 time activation change
-    ret = [19, 0.1]
+    # 1 time weight change, 1 time activation change; weight std 0.5.
+    ret = [1, 0.5]
     return ret
 
 def target_population_size(generation=0):
@@ -124,7 +124,7 @@ try:
     shutil.rmtree(f"data/experiment_{experiment_name}")
 except:
     pass
-vx.clear_workspace()
+# vx.clear_workspace()
 
 # try to resume from last experiment
 evolution_dic, generation = vx.load_last_generation(experiment_name)
