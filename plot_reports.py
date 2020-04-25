@@ -62,7 +62,8 @@ stepsize = int(len(x)/10)+1
 for i in range(len(x)):
     if i%stepsize==0:
         ticks.append(i)
-plt.boxplot(x)
+flierprops = dict(marker='o', markerfacecolor='gray', markersize=3, linestyle='none')
+plt.boxplot(x, flierprops=flierprops)
 plt.xticks(ticks, ticks)
 
 large_b = body[-1]
