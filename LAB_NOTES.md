@@ -30,5 +30,23 @@ But the bests of two groups seems similar.
 
 ## Apr 24 (3)
 
-Let try two exp again, with even higher mutate rate, and 8x8x8 body (larger search space).
+Let try two exp again, with even higher mutate rate [1, 0.5]. (I was thinking increase the body dimension, but I don't want to redo the previous work. keep 6x6x6)
+seed=2
+
+High mutate rate [1, 0.5] seems failed. Turn back to [4, 0.3].
+
+add another six exp in queue.
+seed=3 (resubmit, in queue)
+seed=4 (started)
+seed=5
+
+## Apr 25 (1)
+
+seed=4 works
+seed=5 seems no improvement
+
+Let's introduce a means called "Great Distinction"!
+
+seed=6,7,8 population will reduce to 3 every 40 generation.
+
 

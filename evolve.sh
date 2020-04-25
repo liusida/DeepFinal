@@ -22,4 +22,4 @@ echo "  jobid:           ${SLURM_JOBID}"
 echo "  GPU(s):          ${CUDA_VISIBLE_DEVICES}"
 
 source activate deeplearning
-python 8.evolution.py $1 $2
+python 8.evolution.py $1 $2 $3

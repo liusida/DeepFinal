@@ -20,17 +20,27 @@ import random
 import numpy as np
 import sys
 
-if len(sys.argv)==3:
-    print(f"in_DNN={sys.argv[1]}, in_seed={sys.argv[2]}", flush=True)
+if len(sys.argv)>=3:
     DNN = bool(int(sys.argv[1]))
     seed = int(sys.argv[2])
+    if len(sys.argv)==3:
+        distinction = True
+    else:
+        distinction = bool(int(sys.argv[3]))
     random.seed(seed)
     np.random.seed(seed)
     if DNN:
         wo = ''
     else:
         wo = 'wo_'
-    experiment_name = f"Surrogate_{wo}DNN_{seed}"
+    if distinction:
+        ds = '_ds'
+    else:
+        ds = ''
+    experiment_name = f"Surrogate_{wo}DNN_{seed}{ds}"
+
+    print(f"DNN={DNN}, seed={seed}, distinction={distinction}", flush=True)
+
     print(f"Experiment name: {experiment_name}.", flush=True)
 
 else:
@@ -54,10 +64,11 @@ def mutation_rate(generation=0):
     ret = [4, 0.3]
     return ret
 
-def target_population_size(generation=0):
-    if generation>40 and generation%40==0:
-        print("Let's do a great distinction!")
-        return 3
+def target_population_size(generation=0, distinction=True):
+    if distinction:
+        if generation>40 and generation%40==0:
+            print("Let's do a great distinction!")
+            return 3
     return 240
 
 hidden_layers = [10,10,10]
@@ -230,7 +241,7 @@ while(True):
     # bot.send(msg, 1, "GUB0XS56E")
 
     # dynamical sceduling
-    evolution.target_population_size = target_population_size(generation)
+    evolution.target_population_size = target_population_size(generation, distinction)
     evolution.body_dimension = body_dimension(generation, sorted_result["fitness"])
     evolution.mutation_rate = mutation_rate(generation)
 

@@ -6,6 +6,7 @@ tmp_*
 workspace
 images
 __pycache__
+*.pyc
 images_*
 *.history
 *.model
