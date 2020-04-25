@@ -35,6 +35,7 @@ class CPPN:
     def clone(self):
         ret = copy.copy(self)
         ret.graph = self.graph.copy()
+        ret.mutate_history = self.mutate_history.copy()
         return ret
 
     def __str__(self):
@@ -182,7 +183,7 @@ class CPPN:
         edge = random.choice(list(self.graph.edges))
         old_weight = self.graph.edges[edge[0], edge[1]]["weight"]
         self.graph.edges[edge[0], edge[1]]["weight"] = np.random.normal(loc=self.graph.edges[edge[0], edge[1]]["weight"], scale=self.weight_mutation_std)
-        return f"({edge[0]},{edge[1]}) wt [{old_weight}] to [{self.graph.edges[edge[0], edge[1]]['weight']}]."
+        return f"({edge[0]}__{edge[1]}) wt [{old_weight}] to [{self.graph.edges[edge[0], edge[1]]['weight']}]."
 
     def get_output(self,body_dimension):
         input_x = np.zeros(body_dimension)
