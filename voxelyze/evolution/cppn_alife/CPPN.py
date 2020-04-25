@@ -25,6 +25,7 @@ class CPPN:
         # There are many differences between networkx 1.x and 2.x, we'll use 2.x
         assert float(nx.__version__)>2.0
         self.hidden_node_names = []
+        self.mutate_history = []
 
     def init(self, hidden_layers, weight_mutation_std):
         self.hidden_layers = hidden_layers
@@ -46,6 +47,7 @@ class CPPN:
         ret["output_node_names"] = self.output_node_names
         ret["hidden_node_names"] = self.hidden_node_names
         ret["hidden_layers"] = self.hidden_layers
+        ret["mutate_history"] = self.mutate_history
         weights = {}
         activation = {}
 
@@ -66,6 +68,7 @@ class CPPN:
         self.output_node_names = obj["output_node_names"]
         self.hidden_node_names = obj["hidden_node_names"]
         self.hidden_layers = obj["hidden_layers"]
+        self.mutate_history = obj["mutate_history"]
         self.init_graph()
         for name in obj["activation"]:
             fn = obj["activation"][name]
@@ -156,27 +159,30 @@ class CPPN:
                     ] )
             # print(fn[0])
             success = fn[0]()
-            if success:
+            if success!="":
                 break
             print("Retry.")
+        self.mutate_history.append(success)
 
     def change_activation(self):
         if len(self.hidden_node_names)==0:
-            return False
+            return ""
         node = random.choice(self.hidden_node_names)
-        success = False
+        success = ""
         for i in range(10):
             activation = random.choice(activation_functions)
             if self.graph.nodes[node]["function"] != activation:
+                old_function = self.graph.nodes[node]["function"].__name__
                 self.graph.nodes[node]["function"]=activation
-                success = True
+                success = f"({node}) Fn [{old_function}] to [{activation.__name__}]."
                 break
         return success
 
     def change_weight(self):
         edge = random.choice(list(self.graph.edges))
+        old_weight = self.graph.edges[edge[0], edge[1]]["weight"]
         self.graph.edges[edge[0], edge[1]]["weight"] = np.random.normal(loc=self.graph.edges[edge[0], edge[1]]["weight"], scale=self.weight_mutation_std)
-        return True
+        return f"({edge[0]},{edge[1]}) wt [{old_weight}] to [{self.graph.edges[edge[0], edge[1]]['weight']}]."
 
     def get_output(self,body_dimension):
         input_x = np.zeros(body_dimension)
