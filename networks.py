@@ -4,8 +4,9 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+body_dim = 8
 """
-Compare different archetectures (all input has the same dimension [?,6,6,6,5]):
+Compare different archetectures (all input has the same dimension [?,body_dim,body_dim,body_dim,5]):
 
 Net: Abstract
 FC4: Fully Connected Layers: [input,120,84,output]
@@ -17,18 +18,18 @@ class Net(nn.Module):
 
     def forward(self, x):
         # check input dim in x,y,z,one_hot format NHWDC
-        assert list(x.size()[1:]) == [6,6,6,5]
+        assert list(x.size()[1:]) == [body_dim,body_dim,body_dim,5]
     
 class FC4(Net):
     def __init__(self):
         super(Net,self).__init__()
-        self.fc1 = nn.Linear(in_features=6 * 6 * 6 * 5, out_features=120)
+        self.fc1 = nn.Linear(in_features=body_dim * body_dim * body_dim * 5, out_features=120)
         self.fc2 = nn.Linear(120, 84)
         self.fc3 = nn.Linear(84, 1)
 
     def forward(self, x):
         super().forward(x)
-        x = x.view(-1, 6 * 6 * 6 * 5)
+        x = x.view(-1, body_dim * body_dim * body_dim * 5)
         x = F.relu(self.fc1(x))
         x = F.relu(self.fc2(x))
         x = self.fc3(x)
@@ -38,17 +39,17 @@ class CONV2D(Net):
     def __init__(self):
         super(Net,self).__init__()
         self.conv1 = nn.Conv2d(in_channels=30, out_channels=30, kernel_size=3, padding=1) # same padding
-        self.conv2 = nn.Conv2d(30, 6, 3, padding=1)
-        self.fc1 = nn.Linear(6*6*6, 1)
+        self.conv2 = nn.Conv2d(30, body_dim, 3, padding=1)
+        self.fc1 = nn.Linear(body_dim*body_dim*body_dim, 1)
 
     def forward(self, x):
         super().forward(x)
         x = x.permute(0, 3,4, 1,2) # swap axes, since Torch conv2d only supports NCHW format
-        x = x.view(-1, 6*5,6,6)
+        x = x.view(-1, body_dim*5,body_dim,body_dim)
         x = F.relu(self.conv1(x))
         x = F.relu(self.conv2(x))
         x = x.permute(0, 2,3,1) # swap axes back from conv2d
-        x = x.view(-1, 6*6*6)
+        x = x.view(-1, body_dim*body_dim*body_dim)
         x = self.fc1(x)
         return x
 
@@ -57,14 +58,14 @@ class CONV3D(Net):
         super(Net,self).__init__()
         self.conv1 = nn.Conv3d(in_channels=5, out_channels=30, kernel_size=3, padding=1) # same padding
         self.conv2 = nn.Conv3d(30, 5, 3, padding=1) # same padding
-        self.fc1 = nn.Linear(6*6*6*5, 1)
+        self.fc1 = nn.Linear(body_dim*body_dim*body_dim*5, 1)
     def forward(self, x):
         super().forward(x)
         x = x.permute(0, 4, 3, 1, 2) # swap axes, since Torch conv3d only support N,Cin,D,H,W format
         x = F.relu(self.conv1(x))
         x = F.relu(self.conv2(x))
         # x = x.permute(0, 3,4, 2,1) # swap axes back from conv2d
-        x = x.view(-1, 6*6*6*5)
+        x = x.view(-1, body_dim*body_dim*body_dim*5)
         x = self.fc1(x)
         return x
 
