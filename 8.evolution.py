@@ -100,6 +100,7 @@ else:
 #     net.cuda()
 # Directly use pre-trained model
 net = torch.load(f"./models/FC4_0.model")
+net.to(torch.device('cpu'))
 training_epochs_per_generation = 100
 criterion = nn.MSELoss()
 optimizer = optim.SGD(net.parameters(), lr=0.001)
