@@ -46,9 +46,34 @@ seed=4 works
 seed=5 seems no improvement
 seed=3 is still running
 
-Let's introduce a means called "Great Distinction"! population will reduce to 3 every 40 generation.
+Let's introduce a means called "Great Distinction"! population will start re-init every 40 generation after 40 gen.
 
-seed=6,7,8 all with three trials: DNN_ds wo_DNN_ds wo_DNN
+seed=6,7,8,9,10,11,12 all with three trials: DNN_ds wo_DNN_ds wo_DNN
+evolve.sh 0 6 0 job 24270 #no DNN no disti
+evolve.sh 1 6 1 job 24271 #DNN disti
+evolve.sh 1 6 0 job 24272 #DNN no disti
+evolve.sh 0 7 0 job 24274
+evolve.sh 1 7 0 job 24275
+evolve.sh 1 7 1 job 24276
+evolve.sh 0 8 0 job 24277
+evolve.sh 1 8 0 job 24278
+evolve.sh 1 8 1 job 24279
+evolve.sh 0 9 0 job 24280
+evolve.sh 1 9 0 job 24281
+evolve.sh 1 9 1 job 24282
+evolve.sh 0 10 0 job 24283
+evolve.sh 1 10 0 job 24284
+evolve.sh 1 10 1 job 24285
+evolve.sh 0 11 0 job 24286
+evolve.sh 1 11 0 job 24287
+evolve.sh 1 11 1 job 24288
+evolve.sh 0 12 0 job 24289
+evolve.sh 1 12 0 job 24290
+evolve.sh 1 12 1 job 24291
 
 
-
+# Apr 29 (1)
+use pre-trained FC4_0.model, compare the difference
+Start 
+evolve.sh 1 15 0
+evolve.sh 0 15 0

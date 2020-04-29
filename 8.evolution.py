@@ -95,12 +95,14 @@ if GPU:
 else:
     dtype = torch.FloatTensor
     device = 'RAM'
-net = networks.FC4()
-if GPU:
-    net.cuda()
+# net = networks.FC4()
+# if GPU:
+#     net.cuda()
+# Directly use pre-trained model
+net = torch.load(f"/models/FC4_0.model")
 training_epochs_per_generation = 100
 criterion = nn.MSELoss()
-optimizer = optim.SGD(net.parameters(), lr=0.01)
+optimizer = optim.SGD(net.parameters(), lr=0.001)
 batch_size = 512
 train_X = None
 train_Y = None
