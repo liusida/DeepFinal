@@ -61,7 +61,7 @@ def body_dimension(generation=0, fitness_scores=[0]):
 
 def mutation_rate(generation=0):
     # 1 time weight change, 1 time activation change; weight std 0.5.
-    ret = [4, 0.3]
+    ret = [1, 0.5]
     return ret
 
 def target_population_size(generation=0):
