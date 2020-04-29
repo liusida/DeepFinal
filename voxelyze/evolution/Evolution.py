@@ -116,28 +116,31 @@ class Evolution:
         sorted_result is a dictionary with keys id and fitness sorted by fitness desc"""
         """ example population size: 24 """
         # assert self.target_population_size == 24
+        """ select 16, remove 8 """
+        # selected_geno = []
+        # for i in range(1):
+        #     geno = self.population["genotype"][sorted_result["id"][i]]
+        #     selected_geno.append(geno)
+
+        """ mutate 16 * 2 = 32"""
+        # save best geno so far for breeding
+        if sorted_result["fitness"][0] >= self.best_so_far["fitness"]:
+            self.best_so_far["fitness"] = sorted_result["fitness"][0]
+            self.best_so_far["geno"] = self.population["genotype"][sorted_result["id"][0]]
+
         if self.best_so_far["geno"] is not None:
             geno_from_best_so_far = [self.best_so_far["geno"], self.best_so_far["geno"]]
             num_genos = int(self.target_population_size*2/3) -1
         else:
             geno_from_best_so_far = []
             num_genos = int(self.target_population_size*2/3)
-        """ select 16, remove 8 """
-        selected_geno = []
-        for i in range(num_genos):
-            geno = self.population["genotype"][sorted_result["id"][i]]
-            selected_geno.append(geno)
-
-        """ mutate 16 * 2 = 32"""
-        mutated_geno = self.mutate(geno_from_best_so_far)
-        mutated_geno += self.mutate(selected_geno)
-        mutated_geno += self.mutate(selected_geno)
-
-        # save best geno so far for breeding
-        if sorted_result["fitness"][0] >= self.best_so_far["fitness"]:
-            self.best_so_far["fitness"] = sorted_result["fitness"][0]
-            self.best_so_far["geno"] = self.population["genotype"][sorted_result["id"][0]]
+        # only use best so far as parent
+        current_population_size = int(self.target_population_size*2/3) * 2
+        mutated_geno = []
         
+        for i in range(current_population_size):
+            mutated_geno += self.mutate(geno_from_best_so_far)
+
         # combine two mutant groups into next generation
         next_generation = {}
         next_generation["genotype"] = mutated_geno

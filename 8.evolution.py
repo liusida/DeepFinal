@@ -132,7 +132,7 @@ from voxelyze.evolution.cppn_alife.CPPNEvolution import CPPNEvolution
 import numpy as np
 import shutil, random, os
 generation = 0
-critical_generation = 40
+critical_generation = 5
 
 try:
     shutil.rmtree(f"data/experiment_{experiment_name}")
