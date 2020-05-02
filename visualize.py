@@ -3,12 +3,14 @@ import preprocess
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D  # noqa: F401 unused import
 
-def visualize_robot(body, png_filename=''):
+def visualize_robot(body, png_filename='', swapaxes=False):
     import numpy as np
     x, y, z = np.indices((6, 6, 6))
     voxels = np.zeros_like(x, dtype=bool)
     colors = np.empty(voxels.shape, dtype=object)
     body = np.argmax(body, axis=len(body.shape)-1)
+    if swapaxes:
+        body = np.swapaxes(body,0,2)
     voxels = body > 0
     colors[body==0] = '#000000'
     colors[body==1] = '#00ffff'

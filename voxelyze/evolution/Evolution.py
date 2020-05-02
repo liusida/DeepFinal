@@ -262,5 +262,5 @@ class Evolution:
         plt.close()
         stepsize = int(t.shape[0]/6)
         for i in range(0, t.shape[0], stepsize):
-            visualize.visualize_robot(t[i], f"pairwise_comparison/gen_{generation}_rob_{i}.png")
+            visualize.visualize_robot(t[i], f"pairwise_comparison/gen_{generation}_rob_{i}.png", swapaxes=True)
         return similarity_score
