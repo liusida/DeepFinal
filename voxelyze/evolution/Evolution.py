@@ -168,11 +168,21 @@ class Evolution:
         next_generation = {}
         next_generation["genotype"] = []
         for i in range(self.target_population_size-5):
+            # print(f"choose via DNN: {sorted_id[i]}")
             next_generation["genotype"].append( self.population['genotype'][sorted_id[i]] )
         for i in range(5):
+            # print(f"choose for diversity: {similarity_score[i]}")
             next_generation["genotype"].append( self.population['genotype'][similarity_score[i]] )
         self.population = next_generation
         self.express()
+
+        # current_X = []
+        # for i in range(self.target_population_size):
+        #     current_X.append( self.population['phenotype'][i]['body'] )
+        # current_X = np.array(current_X)
+        # current_X_t = body_one_hot(current_X)
+        # for i in range(self.target_population_size):
+        #     visualize.visualize_robot(current_X_t[i], f"pairwise_comparison/gen_{generation}_zchosen_{i}.png")
 
     def mutate(self, geno):
         """ Mutate a group of geno """
@@ -248,6 +258,7 @@ class Evolution:
         plt.colorbar()
         plt.savefig(f"pairwise_comparison/gen_{generation}.png")
         plt.close()
-        for i in range(t.shape[0]):
+        stepsize = int(t.shape[0]/6)
+        for i in range(0, t.shape[0], stepsize):
             visualize.visualize_robot(t[i], f"pairwise_comparison/gen_{generation}_rob_{i}.png")
         return similarity_score
