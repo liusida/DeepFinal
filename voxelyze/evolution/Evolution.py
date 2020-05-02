@@ -111,36 +111,33 @@ class Evolution:
         assert self.target_population_size == len(next_generation["genotype"])
         self.express()
 
-    def next_generation_with_prediction(self, sorted_result, net, body_one_hot):
+    def next_generation_with_prediction(self, sorted_result, net, body_one_hot, generation, visualize):
         """ step to next generation based on the sorted result
         sorted_result is a dictionary with keys id and fitness sorted by fitness desc"""
         """ example population size: 24 """
         # assert self.target_population_size == 24
-        """ select 16, remove 8 """
-        # selected_geno = []
-        # for i in range(1):
-        #     geno = self.population["genotype"][sorted_result["id"][i]]
-        #     selected_geno.append(geno)
-
-        """ mutate 16 * 2 = 32"""
-        # save best geno so far for breeding
-        if sorted_result["fitness"][0] >= self.best_so_far["fitness"]:
-            self.best_so_far["fitness"] = sorted_result["fitness"][0]
-            self.best_so_far["geno"] = self.population["genotype"][sorted_result["id"][0]]
-
         if self.best_so_far["geno"] is not None:
             geno_from_best_so_far = [self.best_so_far["geno"], self.best_so_far["geno"]]
             num_genos = int(self.target_population_size*2/3) -1
         else:
             geno_from_best_so_far = []
             num_genos = int(self.target_population_size*2/3)
-        # only use best so far as parent
-        current_population_size = int(self.target_population_size*2/3) * 2
-        mutated_geno = []
-        
-        for i in range(current_population_size):
-            mutated_geno += self.mutate(geno_from_best_so_far)
+        """ select 16, remove 8 """
+        selected_geno = []
+        for i in range(num_genos):
+            geno = self.population["genotype"][sorted_result["id"][i]]
+            selected_geno.append(geno)
 
+        """ mutate 16 * 2 = 32"""
+        mutated_geno = self.mutate(geno_from_best_so_far)
+        mutated_geno += self.mutate(selected_geno)
+        mutated_geno += self.mutate(selected_geno)
+
+        # save best geno so far for breeding
+        if sorted_result["fitness"][0] >= self.best_so_far["fitness"]:
+            self.best_so_far["fitness"] = sorted_result["fitness"][0]
+            self.best_so_far["geno"] = self.population["genotype"][sorted_result["id"][0]]
+        
         # combine two mutant groups into next generation
         next_generation = {}
         next_generation["genotype"] = mutated_geno
@@ -155,6 +152,7 @@ class Evolution:
             current_X.append( self.population['phenotype'][i]['body'] )
         current_X = np.array(current_X)
         current_X_t = body_one_hot(current_X)
+        similarity_score = self.tmp_plot_corr_heatmap(current_X_t, generation, visualize)
         Y_hat = net(current_X_t)
         sorted_id = torch.argsort(Y_hat, dim=0, descending=True).cpu().numpy().reshape(-1)
         print(f"Predicted sort: {sorted_id}")
@@ -221,3 +219,25 @@ class Evolution:
             self.population["genotype"].append(population[i]["genotype"])
             # self.population["phenotype"].append(population[i]["phenotype"])
  
+    def tmp_plot_corr_heatmap(self, t, generation, visualize):
+        """ 
+        t: torch.Size([?, 6, 6, 6, 5]) 
+        generation, visualize are just dirty pass...
+        """
+        import torch.nn as nn
+        import matplotlib.pyplot as plt
+        mse = nn.MSELoss()
+        t_flatten = t.view(-1,6*6*6*5)
+        similarity_score = np.zeros([t.shape[0],t.shape[0]])
+        for i in range(t.shape[0]):
+            for j in range(i):
+                loss = mse(t_flatten[i], t_flatten[j])
+                similarity_score[i][j] = loss
+                similarity_score[j][i] = loss
+        plt.imshow(similarity_score, vmin=0, vmax=1)
+        plt.colorbar()
+        plt.savefig(f"pairwise_comparison/gen_{generation}.png")
+        plt.close()
+        for i in range(t.shape[0]):
+            visualize.visualize_robot(t[i], f"pairwise_comparison/gen_{generation}_rob_{i}.png")
+        return similarity_score
