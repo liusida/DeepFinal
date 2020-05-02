@@ -72,7 +72,7 @@ class Evolution:
                 "phaseoffset": phaseoffset,
             })
 
-    def next_generation(self, sorted_result):
+    def next_generation(self, sorted_result, body_one_hot, generation, visualize):
         """ step to next generation based on the sorted result
         sorted_result is a dictionary with keys id and fitness sorted by fitness desc"""
         if self.best_so_far["geno"] is not None:
@@ -110,6 +110,13 @@ class Evolution:
         self.population = next_generation
         assert self.target_population_size == len(next_generation["genotype"])
         self.express()
+        current_X = []
+        for i in range(len(self.population['phenotype'])):
+            current_X.append( self.population['phenotype'][i]['body'] )
+        current_X = np.array(current_X)
+        current_X_t = body_one_hot(current_X)
+        similarity_score = self.tmp_plot_corr_heatmap(current_X_t, generation, visualize)
+
 
     def next_generation_with_prediction(self, sorted_result, net, body_one_hot, generation, visualize):
         """ step to next generation based on the sorted result
@@ -153,14 +160,17 @@ class Evolution:
         current_X = np.array(current_X)
         current_X_t = body_one_hot(current_X)
         similarity_score = self.tmp_plot_corr_heatmap(current_X_t, generation, visualize)
+        similarity_score = similarity_score.sum(axis=0).argsort()[::-1]
         Y_hat = net(current_X_t)
         sorted_id = torch.argsort(Y_hat, dim=0, descending=True).cpu().numpy().reshape(-1)
         print(f"Predicted sort: {sorted_id}")
 
         next_generation = {}
         next_generation["genotype"] = []
-        for i in range(self.target_population_size):
-            next_generation["genotype"].append( self.population['genotype'][sorted_id[i]])
+        for i in range(self.target_population_size-5):
+            next_generation["genotype"].append( self.population['genotype'][sorted_id[i]] )
+        for i in range(5):
+            next_generation["genotype"].append( self.population['genotype'][similarity_score[i]] )
         self.population = next_generation
         self.express()
 

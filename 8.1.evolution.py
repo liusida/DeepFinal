@@ -51,11 +51,11 @@ def body_dimension(generation=0, fitness_scores=[0]):
 
 def mutation_rate(generation=0):
     # 19 times weight change, 1 time activation change
-    ret = [19, 0.1]
+    ret = [1, 1]
     return ret
 
 def target_population_size(generation=0):
-    return 3
+    return 240
 
 hidden_layers = [10,10,10]
 
@@ -238,4 +238,4 @@ while(True):
     if DNN and generation>0:
         next_generation = evolution.next_generation_with_prediction(sorted_result, net, body_one_hot, generation, visualize)
     else:
-        next_generation = evolution.next_generation(sorted_result)
+        next_generation = evolution.next_generation(sorted_result, body_one_hot, generation, visualize)
