@@ -92,7 +92,7 @@ if not control_exp:
 plt.ylabel("Travel Speed (body lengths/s)")
 plt.xlabel("Generation")
 plt.tight_layout()
-plt.savefig(f"reports/boxplot_{experiment_name}.svg")
+plt.savefig(f"reports/boxplot_{experiment_name}.png")
 plt.close()
 
 
