@@ -55,7 +55,7 @@ def mutation_rate(generation=0):
     return ret
 
 def target_population_size(generation=0):
-    return 48
+    return 240
 
 hidden_layers = [10,10,10]
 
