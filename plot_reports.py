@@ -4,6 +4,12 @@ import voxelyze as vx
 import matplotlib.pyplot as plt
 import matplotlib.ticker as plticker
 import numpy as np
+
+try:
+    os.mkdir("reports")
+except:
+    pass
+
 def body_dimension(generation=0, fitness_scores=[0]):
     return [6,6,6]
 
@@ -86,7 +92,7 @@ if not control_exp:
 plt.ylabel("Travel Speed (body lengths/s)")
 plt.xlabel("Generation")
 plt.tight_layout()
-plt.savefig(f"boxplot_{experiment_name}.svg")
+plt.savefig(f"reports/boxplot_{experiment_name}.svg")
 plt.close()
 
 
@@ -95,7 +101,7 @@ pboxplot = plt.boxplot(x1, showfliers=False)
 plt.xticks(ticks, ticks)
 for patch in pboxplot['boxes']:
     patch.set_color("#DDDDDD")
-plt.savefig("boxplot_num_voxels.png")
+plt.savefig("reports/boxplot_num_voxels.png")
 plt.close()
 
 plt.figure(figsize=(9,6))
@@ -105,5 +111,5 @@ plt.xlabel("Generation")
 plt.ylabel("Height of the Center of Mass in the end.")
 for patch in pboxplot['boxes']:
     patch.set_color("#DDDDDD")
-plt.savefig("boxplot_end_z.png")
+plt.savefig("reports/boxplot_end_z.png")
 plt.close()
