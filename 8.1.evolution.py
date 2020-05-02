@@ -236,6 +236,6 @@ while(True):
     # next generation
     generation += 1
     if DNN and generation>40:
-        next_generation = evolution.next_generation_with_prediction(sorted_result, net, body_one_hot, generation, visualize)
+        next_generation = evolution.next_generation_with_prediction(sorted_result, net, body_one_hot, generation, visualize, experiment_name)
     else:
-        next_generation = evolution.next_generation(sorted_result, body_one_hot, generation, visualize)
+        next_generation = evolution.next_generation(sorted_result, body_one_hot, generation, visualize, experiment_name)

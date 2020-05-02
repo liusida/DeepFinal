@@ -72,7 +72,7 @@ class Evolution:
                 "phaseoffset": phaseoffset,
             })
 
-    def next_generation(self, sorted_result, body_one_hot, generation, visualize):
+    def next_generation(self, sorted_result, body_one_hot, generation, visualize, experiment_name):
         """ step to next generation based on the sorted result
         sorted_result is a dictionary with keys id and fitness sorted by fitness desc"""
         if self.best_so_far["geno"] is not None:
@@ -115,10 +115,10 @@ class Evolution:
             current_X.append( self.population['phenotype'][i]['body'] )
         current_X = np.array(current_X)
         current_X_t = body_one_hot(current_X)
-        similarity_score = self.tmp_plot_corr_heatmap(current_X_t, generation, visualize)
+        similarity_score = self.tmp_plot_corr_heatmap(current_X_t, generation, visualize, experiment_name)
 
 
-    def next_generation_with_prediction(self, sorted_result, net, body_one_hot, generation, visualize):
+    def next_generation_with_prediction(self, sorted_result, net, body_one_hot, generation, visualize, experiment_name):
         """ step to next generation based on the sorted result
         sorted_result is a dictionary with keys id and fitness sorted by fitness desc"""
         """ example population size: 24 """
@@ -159,7 +159,7 @@ class Evolution:
             current_X.append( self.population['phenotype'][i]['body'] )
         current_X = np.array(current_X)
         current_X_t = body_one_hot(current_X)
-        similarity_score = self.tmp_plot_corr_heatmap(current_X_t, generation, visualize)
+        similarity_score = self.tmp_plot_corr_heatmap(current_X_t, generation, visualize, experiment_name)
         similarity_score = similarity_score.sum(axis=0).argsort()[::-1]
         Y_hat = net(current_X_t)
         sorted_id = torch.argsort(Y_hat, dim=0, descending=True).cpu().numpy().reshape(-1)
@@ -241,13 +241,18 @@ class Evolution:
             self.population["genotype"].append(population[i]["genotype"])
             # self.population["phenotype"].append(population[i]["phenotype"])
  
-    def tmp_plot_corr_heatmap(self, t, generation, visualize):
+    def tmp_plot_corr_heatmap(self, t, generation, visualize, experiment_name):
         """ 
         t: torch.Size([?, 6, 6, 6, 5]) 
         generation, visualize are just dirty pass...
         """
         import torch.nn as nn
         import matplotlib.pyplot as plt
+        import os
+        try:
+            os.mkdir(f"pairwise_comparison/{experiment_name}")
+        except:
+            pass
         mse = nn.MSELoss()
         t_flatten = t.view(-1,6*6*6*5)
         similarity_score = np.zeros([t.shape[0],t.shape[0]])
@@ -258,9 +263,9 @@ class Evolution:
                 similarity_score[j][i] = loss
         plt.imshow(similarity_score, vmin=0, vmax=1)
         plt.colorbar()
-        plt.savefig(f"pairwise_comparison/gen_{generation}.png")
+        plt.savefig(f"pairwise_comparison/{experiment_name}/gen_{generation}.png")
         plt.close()
         stepsize = int(t.shape[0]/6)
         for i in range(0, t.shape[0], stepsize):
-            visualize.visualize_robot(t[i], f"pairwise_comparison/gen_{generation}_rob_{i}.png", swapaxes=True)
+            visualize.visualize_robot(t[i], f"pairwise_comparison/{experiment_name}/gen_{generation}_rob_{i}.png", swapaxes=True)
         return similarity_score
