@@ -167,10 +167,12 @@ class Evolution:
 
         next_generation = {}
         next_generation["genotype"] = []
-        for i in range(self.target_population_size-5):
+        choose_via_dnn = int(self.target_population_size*2/3)
+        choose_for_div = self.target_population_size - choose_via_dnn
+        for i in range(choose_via_dnn):
             # print(f"choose via DNN: {sorted_id[i]}")
             next_generation["genotype"].append( self.population['genotype'][sorted_id[i]] )
-        for i in range(5):
+        for i in range(choose_for_div):
             # print(f"choose for diversity: {similarity_score[i]}")
             next_generation["genotype"].append( self.population['genotype'][similarity_score[i]] )
         self.population = next_generation
