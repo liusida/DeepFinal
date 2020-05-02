@@ -69,7 +69,7 @@ for generation in range(max_gen):
     x.append(distances)
     x1.append(num_voxels)
     x2.append(end_zs)
-    best_this_gen = np.max(x)
+    best_this_gen = max(x)
     bestsofar.append(best_this_gen)
 
 large_f = max(x[-1])
