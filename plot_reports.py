@@ -57,7 +57,8 @@ for generation in range(max_gen):
         end_x = float(robot.xpath("currentCenterOfMass/x")[0].text)
         end_y = float(robot.xpath("currentCenterOfMass/y")[0].text)
         end_z = float(robot.xpath("currentCenterOfMass/z")[0].text)
-        distance = np.sqrt((end_x-init_x)**2 + (end_y-init_y)**2) / 0.1 / 1 # body length=0.1m, evaluate time=1sec
+        currentTime = float(robot.xpath("currentTime")[0].text)
+        distance = np.sqrt((end_x-init_x)**2 + (end_y-init_y)**2) / 0.1 / currentTime # body length=0.1m, evaluate time=1sec
         num_voxel = int(robot.xpath("num_voxel")[0].text)
         distances.append(distance)
         end_zs.append(end_z)
