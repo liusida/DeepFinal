@@ -4,6 +4,11 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D  # noqa: F401 unused import
 
 def visualize_robot(body, png_filename='', swapaxes=False):
+    """
+    params:
+        body: a [6,6,6,5] numpy array, defining a 6x6x6 body with one-hot encoding.
+    see also: function  body_one_hot() in 8.evolution.py to convert [?,6,6,6] to [?,6,6,6,5]
+    """
     import numpy as np
     x, y, z = np.indices((6, 6, 6))
     voxels = np.zeros_like(x, dtype=bool)
